@@ -7,7 +7,7 @@
 		<French>The Mexicans</French>
 		<German>The Mexicans</German>
 		<Italian>The Mexicans</Italian>
-		<Spanish>The Mexicans</Spanish>
+		<Spanish>Los Mexicanos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_SHORT_DESC</Tag>
@@ -55,7 +55,7 @@
 		<French>Mexican Peoples</French>
 		<German>Mexican Peoples</German>
 		<Italian>Mexican Peoples</Italian>
-		<Spanish>Mexican Peoples</Spanish>
+		<Spanish>Pueblos Mexicanos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_DEFAULT</Tag>
@@ -135,6 +135,6 @@
 		<French>Synarchist Union of %s1</French>
 		<German>Synarchist Union of %s1</German>
 		<Italian>Synarchist Union of %s1</Italian>
-		<Spanish>Synarchist Union of %s1</Spanish>
+		<Spanish>Sinarqu&#237;a de %s1</Spanish>
 	</TEXT>
 </Civ4GameText>

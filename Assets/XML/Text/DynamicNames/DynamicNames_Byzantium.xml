@@ -7,7 +7,7 @@
 		<French>The Byzantines</French>
 		<German>The Byzantines</German>
 		<Italian>The Byzantines</Italian>
-		<Spanish>The Byzantines</Spanish>
+		<Spanish>Los Bizantinos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Byzantine Peoples</French>
 		<German>Byzantine Peoples</German>
 		<Italian>Byzantine Peoples</Italian>
-		<Spanish>Byzantine Peoples</Spanish>
+		<Spanish>Pueblos Bizantinos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DEFAULT</Tag>
@@ -47,7 +47,7 @@
 		<French>Republic of Rhomania</French>
 		<German>Republic of Rhomania</German>
 		<Italian>Republic of Rhomania</Italian>
-		<Spanish>Republic of Rhomania</Spanish>
+		<Spanish>Rep&#250;blica de Romania</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_FASCIST</Tag>
@@ -55,7 +55,7 @@
 		<French>Despotate of %s1</French>
 		<German>Despotate of %s1</German>
 		<Italian>Despotate of %s1</Italian>
-		<Spanish>Despotate of %s1</Spanish>
+		<Spanish>Despotado of %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_EASTERN</Tag>
@@ -63,7 +63,7 @@
 		<French>Eastern Roman</French>
 		<German>Eastern Roman</German>
 		<Italian>Eastern Roman</Italian>
-		<Spanish>Eastern Roman</Spanish>
+		<Spanish>Romano Oriental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_TREBIZOND</Tag>
@@ -71,7 +71,7 @@
 		<French>Trebizond</French>
 		<German>Trebizond</German>
 		<Italian>Trebizond</Italian>
-		<Spanish>Trebizond</Spanish>
+		<Spanish>Trebizonda</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DESPOTATE</Tag>
@@ -79,7 +79,7 @@
 		<French>Despotate of %s1</French>
 		<German>Despotate of %s1</German>
 		<Italian>Despotate of %s1</Italian>
-		<Spanish>Despotate of %s1</Spanish>
+		<Spanish>Despotado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_RUM</Tag>
@@ -95,7 +95,7 @@
 		<French>the Morea</French>
 		<German>the Morea</German>
 		<Italian>the Morea</Italian>
-		<Spanish>the Morea</Spanish>
+		<Spanish>Morea</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_NICAEA</Tag>
@@ -103,7 +103,7 @@
 		<French>Nicaea</French>
 		<German>Nicaea</German>
 		<Italian>Nicaea</Italian>
-		<Spanish>Nicaea</Spanish>
+		<Spanish>Nicea</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_EPIRUS</Tag>
@@ -111,7 +111,7 @@
 		<French>Epirus</French>
 		<German>Epirus</German>
 		<Italian>Epirus</Italian>
-		<Spanish>Epirus</Spanish>
+		<Spanish>Epiro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_VASSAL</Tag>
@@ -119,7 +119,7 @@
 		<French>Exarchate of %s1</French>
 		<German>Exarchate of %s1</German>
 		<Italian>Exarchate of %s1</Italian>
-		<Spanish>Exarchate of %s1</Spanish>
+		<Spanish>Exarcado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_EGYPT</Tag>
@@ -127,7 +127,7 @@
 		<French>Exarchate of Alexandria</French>
 		<German>Exarchate of Alexandria</German>
 		<Italian>Exarchate of Alexandria</Italian>
-		<Spanish>Exarchate of Alexandria</Spanish>
+		<Spanish>Exarado de Alexandr&#237;a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_BABYLONIA</Tag>
@@ -135,7 +135,7 @@
 		<French>Exarchate of Ctesiphon</French>
 		<German>Exarchate of Ctesiphon</German>
 		<Italian>Exarchate of Ctesiphon</Italian>
-		<Spanish>Exarchate of Ctesiphon</Spanish>
+		<Spanish>Exarcado de Ctesifonte</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_GREECE</Tag>
@@ -143,7 +143,7 @@
 		<French>Exarchate of Achaia</French>
 		<German>Exarchate of Achaia</German>
 		<Italian>Exarchate of Achaia</Italian>
-		<Spanish>Exarchate of Achaia</Spanish>
+		<Spanish>Exarcado de Acaya</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_CARTHAGE</Tag>
@@ -151,7 +151,7 @@
 		<French>Exarchate of Africa</French>
 		<German>Exarchate of Africa</German>
 		<Italian>Exarchate of Africa</Italian>
-		<Spanish>Exarchate of Africa</Spanish>
+		<Spanish>Exarcado de &#193;frica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_PERSIA</Tag>
@@ -159,7 +159,7 @@
 		<French>Exarchate of Parthia</French>
 		<German>Exarchate of Parthia</German>
 		<Italian>Exarchate of Parthia</Italian>
-		<Spanish>Exarchate of Parthia</Spanish>
+		<Spanish>Exarcado de Partia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_ROME</Tag>
@@ -167,7 +167,7 @@
 		<French>Exarchate of Ravenna</French>
 		<German>Exarchate of Ravenna</German>
 		<Italian>Exarchate of Ravenna</Italian>
-		<Spanish>Exarchate of Ravenna</Spanish>
+		<Spanish>Exarcado de R&#225;vena</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_SPAIN</Tag>
@@ -175,7 +175,7 @@
 		<French>Exarchate of Spania</French>
 		<German>Exarchate of Spania</German>
 		<Italian>Exarchate of Spania</Italian>
-		<Spanish>Exarchate of Spania</Spanish>
+		<Spanish>Exarcado de Spania</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_ADJECTIVE</Tag>

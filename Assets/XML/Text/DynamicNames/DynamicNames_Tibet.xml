@@ -7,7 +7,7 @@
 		<French>The Tibetans</French>
 		<German>The Tibetans</German>
 		<Italian>The Tibetans</Italian>
-		<Spanish>The Tibetans</Spanish>
+		<Spanish>Los Tibetanos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Tibetan Peoples</French>
 		<German>Tibetan Peoples</German>
 		<Italian>Tibetan Peoples</Italian>
-		<Spanish>Tibetan Peoples</Spanish>
+		<Spanish>Pueblos Tibetanos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DEFAULT</Tag>
@@ -71,7 +71,7 @@
 		<French>Tibetan</French>
 		<German>Tibetan</German>
 		<Italian>Tibetan</Italian>
-		<Spanish>Tibetan</Spanish>
+		<Spanish>Tibetano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_SHORT_DESC</Tag>
@@ -87,7 +87,7 @@
 		<French>Khrom of %s3</French>
 		<German>Khrom of %s3</German>
 		<Italian>Khrom of %s3</Italian>
-		<Spanish>Khrom of %s3</Spanish>
+		<Spanish>Khrom de %s3</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBETAN_NAME_CHINA</Tag>

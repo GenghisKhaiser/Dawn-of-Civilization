@@ -31,7 +31,7 @@
 		<French>Rus' Peoples</French>
 		<German>Rus' Peoples</German>
 		<Italian>Rus' Peoples</Italian>
-		<Spanish>Rus' Peoples</Spanish>
+		<Spanish>Pueblos del Rus'</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_DEFAULT</Tag>
@@ -39,7 +39,7 @@
 		<French>Grand Duchy of %s1</French>
 		<German>Grand Duchy of %s1</German>
 		<Italian>Grand Duchy of %s1</Italian>
-		<Spanish>Grand Duchy of %s1</Spanish>
+		<Spanish>Gran Ducado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_REPUBLIC</Tag>
@@ -119,7 +119,7 @@
 		<French>Panslavic Empire</French>
 		<German>Panslavic Empire</German>
 		<Italian>Panslavic Empire</Italian>
-		<Spanish>Panslavic Empire</Spanish>
+		<Spanish>Imperio Paneslavo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_MUSCOVY</Tag>
@@ -127,7 +127,7 @@
 		<French>Muscovy</French>
 		<German>Muscovy</German>
 		<Italian>Muscovy</Italian>
-		<Spanish>Muscovy</Spanish>
+		<Spanish>Mosc&#250;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_KIEVAN_RUS</Tag>
@@ -135,7 +135,7 @@
 		<French>Kievan Rus</French>
 		<German>Kievan Rus</German>
 		<Italian>Kievan Rus</Italian>
-		<Spanish>Kievan Rus</Spanish>
+		<Spanish>Rus de Kiev</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_RUS</Tag>
@@ -143,7 +143,7 @@
 		<French>Rus of %s1</French>
 		<German>Rus of %s1</German>
 		<Italian>Rus of %s1</Italian>
-		<Spanish>Rus of %s1</Spanish>
+		<Spanish>Rus de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIAN_VASSAL</Tag>
@@ -151,7 +151,7 @@
 		<French>%s1 Krai</French>
 		<German>%s1 Krai</German>
 		<Italian>%s1 Krai</Italian>
-		<Spanish>%s1 Krai</Spanish>
+		<Spanish>Krai %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIAN_POLAND</Tag>
@@ -159,7 +159,7 @@
 		<French>Congress %s1</French>
 		<German>Congress %s1</German>
 		<Italian>Congress %s1</Italian>
-		<Spanish>Congress %s1</Spanish>
+		<Spanish>%s1 del Congreso</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SOVIET</Tag>
@@ -191,7 +191,7 @@
 		<French>%s2 Soviet Republic</French>
 		<German>%s2 Soviet Republic</German>
 		<Italian>%s2 Soviet Republic</Italian>
-		<Spanish>%s2 Soviet Republic</Spanish>
+		<Spanish>Rep&#250;blica Sovi&#233;tica %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIAN_NAME_PERSIA</Tag>
@@ -223,7 +223,7 @@
 		<French>Far Eastern Republic</French>
 		<German>Far Eastern Republic</German>
 		<Italian>Far Eastern Republic</Italian>
-		<Spanish>Far Eastern Republic</Spanish>
+		<Spanish>Rep&#250;blica del Lejano Oriente</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SOVIET_OTTOMANS</Tag>
@@ -231,7 +231,7 @@
 		<French>Transcaucasian Socialist Federative Soviet Republic</French>
 		<German>Transcaucasian Socialist Federative Soviet Republic</German>
 		<Italian>Transcaucasian Socialist Federative Soviet Republic</Italian>
-		<Spanish>Transcaucasian Socialist Federative Soviet Republic</Spanish>
+		<Spanish>Rep&#250;blica Federal Socialista Sovi&#233;tica de Transcaucasia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SOVIET_TURKS</Tag>
@@ -239,7 +239,7 @@
 		<French>%s4 Soviet Socialist Republic</French>
 		<German>%s4 Soviet Socialist Republic</German>
 		<Italian>%s4 Soviet Socialist Republic</Italian>
-		<Spanish>%s4 Soviet Socialist Republic</Spanish>
+		<Spanish>Rep&#250;blica Socialista Sovi&#233;tica %s4</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SOVIET_GERMANY</Tag>

@@ -7,7 +7,7 @@
 		<French>The Turks</French>
 		<German>The Turks</German>
 		<Italian>The Turks</Italian>
-		<Spanish>The Turks</Spanish>
+		<Spanish>Tos Turcos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_SHORT_DESC</Tag>
@@ -15,7 +15,7 @@
 		<French>Turkestan</French>
 		<German>Turkestan</German>
 		<Italian>Turkestan</Italian>
-		<Spanish>Turkestan</Spanish>
+		<Spanish>Turquest&#225;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_ADJECTIVE</Tag>
@@ -23,7 +23,7 @@
 		<French>Turkic</French>
 		<German>Turkic</German>
 		<Italian>Turkic</Italian>
-		<Spanish>Turkic</Spanish>
+		<Spanish>T&#250;rquico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_UZBEKS_DESC</Tag>
@@ -31,7 +31,7 @@
 		<French>The Uzbeks</French>
 		<German>Die Usbeken</German>
 		<Italian>The Uzbeks</Italian>
-		<Spanish>The Uzbeks</Spanish>
+		<Spanish>Los Uzbekos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_UZBEKS_SHORT_DESC</Tag>
@@ -39,7 +39,7 @@
 		<French>Uzbekistan</French>
 		<German>Uzbekistan</German>
 		<Italian>Uzbekistan</Italian>
-		<Spanish>Uzbekistan</Spanish>
+		<Spanish>Uzbekist&#225;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_UZBEKS_ADJECTIVE</Tag>
@@ -47,7 +47,7 @@
 		<French>Uzbek</French>
 		<German>Uzbek</German>
 		<Italian>Uzbek</Italian>
-		<Spanish>Uzbek</Spanish>
+		<Spanish>Uzbeko</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKESTAN_PEOPLES</Tag>
@@ -55,7 +55,7 @@
 		<French>Turkic Peoples</French>
 		<German>Turkic Peoples</German>
 		<Italian>Turkic Peoples</Italian>
-		<Spanish>Turkic Peoples</Spanish>
+		<Spanish>Pueblos T&#250;rquicos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKESTAN_DEFAULT</Tag>
@@ -63,7 +63,7 @@
 		<French>%s2 Khanate</French>
 		<German>%s2 Khanate</German>
 		<Italian>%s2 Khanate</Italian>
-		<Spanish>%s2 Khanate</Spanish>
+		<Spanish>Kanato %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKESTAN_FASCIST</Tag>
@@ -71,7 +71,7 @@
 		<French>Pan-Turkic Empire</French>
 		<German>Pan-Turkic Empire</German>
 		<Italian>Pan-Turkic Empire</Italian>
-		<Spanish>Pan-Turkic Empire</Spanish>
+		<Spanish>Imperio Pant&#250;rquico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_KURULTAI</Tag>
@@ -79,7 +79,7 @@
 		<French>%s2 Kurultai</French>
 		<German>%s2 Kurultai</German>
 		<Italian>%s2 Kurultai</Italian>
-		<Spanish>%s2 Kurultai</Spanish>
+		<Spanish>Kurultai %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_GREAT_EMPIRE</Tag>
@@ -87,7 +87,7 @@
 		<French>Great %s2 Empire</French>
 		<German>Great %s2 Empire</German>
 		<Italian>Great %s2 Empire</Italian>
-		<Spanish>Great %s2 Empire</Spanish>
+		<Spanish>Gan Imperio %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_KHAGANATE</Tag>
@@ -95,7 +95,7 @@
 		<French>%s2 Khaganate</French>
 		<German>%s2 Khaganate</German>
 		<Italian>%s2 Khaganate</Italian>
-		<Spanish>%s2 Khaganate</Spanish>
+		<Spanish>Kanato %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_KHANATE_OF</Tag>
@@ -103,7 +103,7 @@
 		<French>Khanate of %s1</French>
 		<German>Khanate of %s1</German>
 		<Italian>Khanate of %s1</Italian>
-		<Spanish>Khanate of %s1</Spanish>
+		<Spanish>Kanato de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_TIMURID</Tag>
@@ -111,7 +111,7 @@
 		<French>Timurid</French>
 		<German>Timurid</German>
 		<Italian>Timurid</Italian>
-		<Spanish>Timurid</Spanish>
+		<Spanish>Tim&#250;rida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_SHAYBANID</Tag>
@@ -119,7 +119,7 @@
 		<French>Shaybanid</French>
 		<German>Shaybanid</German>
 		<Italian>Shaybanid</Italian>
-		<Spanish>Shaybanid</Spanish>
+		<Spanish>Shayb&#225;nida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_KHAZARIA</Tag>
@@ -127,7 +127,7 @@
 		<French>Khazaria</French>
 		<German>Khazaria</German>
 		<Italian>Khazaria</Italian>
-		<Spanish>Khazaria</Spanish>
+		<Spanish>Jazaria</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_KHAZAR</Tag>
@@ -135,7 +135,7 @@
 		<French>Khazar</French>
 		<German>Khazar</German>
 		<Italian>Khazar</Italian>
-		<Spanish>Khazar</Spanish>
+		<Spanish>J&#225;zaro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_RUM</Tag>
@@ -151,7 +151,7 @@
 		<French>Seljuk</French>
 		<German>Seljuk</German>
 		<Italian>Seljuk</Italian>
-		<Spanish>Seljuk</Spanish>
+		<Spanish>Sely&#250;cida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_UZBEKISTAN</Tag>
@@ -159,7 +159,7 @@
 		<French>Uzbekistan</French>
 		<German>Uzbekistan</German>
 		<Italian>Uzbekistan</Italian>
-		<Spanish>Uzbekistan</Spanish>
+		<Spanish>Uzbekist&#225;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_UZBEK</Tag>
@@ -167,7 +167,7 @@
 		<French>Uzbek</French>
 		<German>Uzbek</German>
 		<Italian>Uzbek</Italian>
-		<Spanish>Uzbek</Spanish>
+		<Spanish>Uzbeko</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_WESTERN_TURKIC</Tag>
@@ -175,7 +175,7 @@
 		<French>Western Turkic</French>
 		<German>Western Turkic</German>
 		<Italian>Western Turkic</Italian>
-		<Spanish>Western Turkic</Spanish>
+		<Spanish>Turco Occidental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_EASTERN_TURKIC</Tag>
@@ -183,7 +183,7 @@
 		<French>Eastern Turkic</French>
 		<German>Eastern Turkic</German>
 		<Italian>Eastern Turkic</Italian>
-		<Spanish>Eastern Turkic</Spanish>
+		<Spanish>Turco Oriental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKIC_VASSAL</Tag>
@@ -191,7 +191,7 @@
 		<French>Atabeylik of %s3</French>
 		<German>Atabeylik of %s3</German>
 		<Italian>Atabeylik of %s3</Italian>
-		<Spanish>Atabeylik of %s3</Spanish>
+		<Spanish>Atabeylik de %s3</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKS_</Tag>

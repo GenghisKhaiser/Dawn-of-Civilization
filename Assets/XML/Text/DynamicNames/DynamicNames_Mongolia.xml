@@ -127,7 +127,7 @@
 		<French>Timurid</French>
 		<German>Timurid</German>
 		<Italian>Timurid</Italian>
-		<Spanish>Timurid</Spanish>
+		<Spanish>Tim&#250;rida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOLIA_HULAGU</Tag>
@@ -143,7 +143,7 @@
 		<French>Ilkhanate</French>
 		<German>Ilkhanate</German>
 		<Italian>Ilkhanate</Italian>
-		<Spanish>Ilkhanate</Spanish>
+		<Spanish>Iljanato</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOLIA_KHANATE</Tag>
@@ -151,7 +151,7 @@
 		<French>%s2 Khanate</French>
 		<German>%s2 Khanate</German>
 		<Italian>%s2 Khanate</Italian>
-		<Spanish>%s2 Khanate</Spanish>
+		<Spanish>Kanato %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOLIA_CHAGATAI</Tag>
@@ -231,7 +231,7 @@
 		<French>Yuan Khanate</French>
 		<German>Yuan Khanate</German>
 		<Italian>Yuan Khanate</Italian>
-		<Spanish>Yuan Khanate</Spanish>
+		<Spanish>Kanato Yuan</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOL_BABYLONIA</Tag>
@@ -239,7 +239,7 @@
 		<French>Ilkhanate of Mesopotamia</French>
 		<German>Ilkhanate of Mesopotamia</German>
 		<Italian>Ilkhanate of Mesopotamia</Italian>
-		<Spanish>Ilkhanate of Mesopotamia</Spanish>
+		<Spanish>Iljanato de Mesopotamia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOL_PHOENICIA</Tag>
@@ -247,7 +247,7 @@
 		<French>Ilkhanate of Syria</French>
 		<German>Ilkhanate of Syria</German>
 		<Italian>Ilkhanate of Syria</Italian>
-		<Spanish>Ilkhanate of Syria</Spanish>
+		<Spanish>Iljanato de Siria</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOL_BYZANTIUM</Tag>
@@ -268,7 +268,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Janato de Anatolia</Text>
+			<Text>Kanato de Anatolia</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -292,7 +292,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Janato de la Horda de Oro</Text>
+			<Text>Kanato de la Horda de Oro</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -316,7 +316,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Janato de Turquest&#225;n</Text>
+			<Text>Kanato de Turquest&#225;n</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -327,7 +327,7 @@
 		<French>Khanate of Delhi</French>
 		<German>Khanate of Delhi</German>
 		<Italian>Khanate of Delhi</Italian>
-		<Spanish>Khanate of Delhi</Spanish>
+		<Spanish>Kanato de Delhi</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOLIA_MONGOL</Tag>

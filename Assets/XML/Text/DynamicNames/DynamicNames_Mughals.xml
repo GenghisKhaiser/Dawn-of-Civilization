@@ -15,7 +15,7 @@
 		<French>Pakistani</French>
 		<German>Pakistani</German>
 		<Italian>Pakistani</Italian>
-		<Spanish>Pakistani</Spanish>
+		<Spanish>Pakist&#225;n&#237;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PAKISTAN_SHORT_DESC</Tag>
@@ -23,7 +23,7 @@
 		<French>Pakistan</French>
 		<German>Pakistan</German>
 		<Italian>Pakistan</Italian>
-		<Spanish>Pakistan</Spanish>
+		<Spanish>Pakist&#225;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_PEOPLES</Tag>
@@ -31,7 +31,7 @@
 		<French>Ghorid Peoples</French>
 		<German>Ghorid Peoples</German>
 		<Italian>Ghorid Peoples</Italian>
-		<Spanish>Ghorid Peoples</Spanish>
+		<Spanish>Pueblos G&#243;ridas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_DEFAULT</Tag>
@@ -63,7 +63,7 @@
 		<French>%s2 Military Government</French>
 		<German>%s2 Military Government</German>
 		<Italian>%s2 Military Government</Italian>
-		<Spanish>%s2 Military Government</Spanish>
+		<Spanish>Gobierno Militar %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PAKISTAN_DEFAULT</Tag>
@@ -95,7 +95,7 @@
 		<French>%s2 Military Government</French>
 		<German>%s2 Military Government</German>
 		<Italian>%s2 Military Government</Italian>
-		<Spanish>%s2 Military Government</Spanish>
+		<Spanish>Gobierno Militar %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_DELHI</Tag>
@@ -111,7 +111,7 @@
 		<French>Kewab of %s1</French>
 		<German>Kewab of %s1</German>
 		<Italian>Kewab of %s1</Italian>
-		<Spanish>Kewab of %s1</Spanish>
+		<Spanish>Kewab de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHAL_INDIA</Tag>
@@ -119,7 +119,7 @@
 		<French>Deccan Sultanates</French>
 		<German>Deccan Sultanates</German>
 		<Italian>Deccan Sultanates</Italian>
-		<Spanish>Deccan Sultanates</Spanish>
+		<Spanish>Sultanatos del Dec&#225;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_ADJECTIVE</Tag>
@@ -127,7 +127,7 @@
 		<French>Mughal</French>
 		<German>Mogul</German>
 		<Italian>Mughal</Italian>
-		<Spanish>Mughal</Spanish>
+		<Spanish>Mogul</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_SHORT_DESC</Tag>
@@ -135,6 +135,6 @@
 		<French>Mughals</French>
 		<German>Moguln</German>
 		<Italian>Mughals</Italian>
-		<Spanish>Mughals</Spanish>
+		<Spanish>Mogul</Spanish>
 	</TEXT>
 </Civ4GameText>

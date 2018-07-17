@@ -7,7 +7,7 @@
 		<French>The Polynesians</French>
 		<German>The Polynesians</German>
 		<Italian>The Polynesians</Italian>
-		<Spanish>The Polynesians</Spanish>
+		<Spanish>Los Polinesios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Polynesian Peoples</French>
 		<German>Polynesian Peoples</German>
 		<Italian>Polynesian Peoples</Italian>
-		<Spanish>Polynesian Peoples</Spanish>
+		<Spanish>Pueblos Polinesios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DEFAULT</Tag>
@@ -47,7 +47,7 @@
 		<French>Polynesian Republics</French>
 		<German>Polynesian Republics</German>
 		<Italian>Polynesian Republics</Italian>
-		<Spanish>Polynesian Republics</Spanish>
+		<Spanish>Rep&#250;blicas Polinesias</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_FASCIST</Tag>
@@ -55,7 +55,7 @@
 		<French>Oceania</French>
 		<German>Oceania</German>
 		<Italian>Oceania</Italian>
-		<Spanish>Oceania</Spanish>
+		<Spanish>Ocean&#237;a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_TONGA</Tag>
@@ -119,7 +119,7 @@
 		<French>Polynesian</French>
 		<German>Polynesian</German>
 		<Italian>Polynesian</Italian>
-		<Spanish>Polynesian</Spanish>
+		<Spanish>Polinesio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_SHORT_DESC</Tag>
@@ -127,6 +127,6 @@
 		<French>Polynesia</French>
 		<German>Polynesia</German>
 		<Italian>Polynesia</Italian>
-		<Spanish>Polynesia</Spanish>
+		<Spanish>Polinesia</Spanish>
 	</TEXT>
 </Civ4GameText>

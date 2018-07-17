@@ -55,7 +55,7 @@
 		<French>Kingdom of %s1</French>
 		<German>Kingdom of %s1</German>
 		<Italian>Kingdom of %s1</Italian>
-		<Spanish>Kingdom of %s1</Spanish>
+		<Spanish>Reino de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_COMMUNIST</Tag>
@@ -111,7 +111,7 @@
 		<French>Portuguese Empire</French>
 		<German>Portuguese Empire</German>
 		<Italian>Portuguese Empire</Italian>
-		<Spanish>Portuguese Empire</Spanish>
+		<Spanish>Imperio Portug&#233;s</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_BRAZIL</Tag>
@@ -119,7 +119,7 @@
 		<French>United Kingdom of %s1 and Brazil</French>
 		<German>United Kingdom of %s1 and Brazil</German>
 		<Italian>United Kingdom of %s1 and Brazil</Italian>
-		<Spanish>United Kingdom of %s1 and Brazil</Spanish>
+		<Spanish>Reino Unido de %s1 y Brasil</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_EXILE</Tag>
@@ -127,7 +127,7 @@
 		<French>%s2 Government in Exile</French>
 		<German>%s2 Government in Exile</German>
 		<Italian>%s2 Government in Exile</Italian>
-		<Spanish>%s2 Government in Exile</Spanish>
+		<Spanish>Gobierno %s2 Government en Exilio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGUESE_INDIA</Tag>
@@ -159,7 +159,7 @@
 		<French>%s2 East Indies</French>
 		<German>%s2 East Indies</German>
 		<Italian>%s2 East Indies</Italian>
-		<Spanish>%s2 East Indies</Spanish>
+		<Spanish>Indias Occidentales Portuguesas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGUESE_CONGO</Tag>
@@ -167,7 +167,7 @@
 		<French>%s2 West Africa</French>
 		<German>%s2 West Africa</German>
 		<Italian>%s2 West Africa</Italian>
-		<Spanish>%s2 West Africa</Spanish>
+		<Spanish>&#193;frica Occidental Portuguesa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGUESE_MALI</Tag>
@@ -175,7 +175,7 @@
 		<French>%s2 Gold Coast</French>
 		<German>%s2 Gold Coast</German>
 		<Italian>%s2 Gold Coast</Italian>
-		<Spanish>%s2 Gold Coast</Spanish>
+		<Spanish>Costa de Oro Portuguesa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGUESE_BRAZIL</Tag>
@@ -183,7 +183,7 @@
 		<French>State of %s1</French>
 		<German>State of %s1</German>
 		<Italian>State of %s1</Italian>
-		<Spanish>State of %s1</Spanish>
+		<Spanish>Estado del %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_ADJECTIVE</Tag>

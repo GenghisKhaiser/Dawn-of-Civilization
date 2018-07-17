@@ -31,7 +31,7 @@
 		<French>Indo-Aryan Peoples</French>
 		<German>Indo-Aryan Peoples</German>
 		<Italian>Indo-Aryan Peoples</Italian>
-		<Spanish>Indo-Aryan Peoples</Spanish>
+		<Spanish>Pueblos Indoarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_DEFAULT</Tag>
@@ -52,7 +52,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Marajato %s1</Text>
+			<Text>Marajato de %s1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -143,7 +143,7 @@
 		<French>Aztec Janapada</French>
 		<German>Aztec Janapada</German>
 		<Italian>Aztec Janapada</Italian>
-		<Spanish>Aztec Janapada</Spanish>
+		<Spanish>Janapada Azteca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_ADJECTIVE</Tag>

@@ -7,7 +7,7 @@
 		<French>The Koreans</French>
 		<German>The Koreans</German>
 		<Italian>The Koreans</Italian>
-		<Spanish>The Koreans</Spanish>
+		<Spanish>Los Coreanos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_DEFAULT</Tag>
@@ -15,7 +15,7 @@
 		<French>Three Kingdoms of %s1</French>
 		<German>Three Kingdoms of %s1</German>
 		<Italian>Three Kingdoms of %s1</Italian>
-		<Spanish>Three Kingdoms of %s1</Spanish>
+		<Spanish>Tres Reinos de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_PEOPLES</Tag>
@@ -23,7 +23,7 @@
 		<French>Korean Peoples</French>
 		<German>Korean Peoples</German>
 		<Italian>Korean Peoples</Italian>
-		<Spanish>Korean Peoples</Spanish>
+		<Spanish>Pueblos Coreanos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_COMMUNIST</Tag>
@@ -31,7 +31,7 @@
 		<French>Democratic People's Republic of %s1</French>
 		<German>Democratic People's Republic of %s1</German>
 		<Italian>Democratic People's Republic of %s1</Italian>
-		<Spanish>Democratic People's Republic of %s1</Spanish>
+		<Spanish>Rep&#250;blica Popular Democr&#225;tica de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_FASCIST</Tag>
@@ -39,7 +39,7 @@
 		<French>Supreme Council for National Reconstruction</French>
 		<German>Supreme Council for National Reconstruction</German>
 		<Italian>Supreme Council for National Reconstruction</Italian>
-		<Spanish>Supreme Council for National Reconstruction</Spanish>
+		<Spanish>Concejo Supremo para la Reconstrucci&#243;n Nacional de Corea</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_SAMHAN</Tag>
@@ -47,7 +47,7 @@
 		<French>Samhan Confederacies</French>
 		<German>Samhan Confederacies</German>
 		<Italian>Samhan Confederacies</Italian>
-		<Spanish>Samhan Confederacies</Spanish>
+		<Spanish>Confederaciones Samhan</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_GORYEO</Tag>
@@ -71,7 +71,7 @@
 		<French>Greater Joseon</French>
 		<German>Greater Joseon</German>
 		<Italian>Greater Joseon</Italian>
-		<Spanish>Greater Joseon</Spanish>
+		<Spanish>Gran Joseon</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_ADJECTIVE</Tag>

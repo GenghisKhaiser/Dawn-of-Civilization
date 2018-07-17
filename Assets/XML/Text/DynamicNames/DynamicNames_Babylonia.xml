@@ -20,7 +20,7 @@
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Los Babil&#243;nicos</Text>
+			<Text>Los Babilonios</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</Spanish>
@@ -127,7 +127,7 @@
 		<French>Mesopotamian</French>
 		<German>Mesopotamian</German>
 		<Italian>Mesopotamian</Italian>
-		<Spanish>Mesopotamian</Spanish>
+		<Spanish>Mesopot&#225;mico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_ASSYRIA</Tag>
@@ -135,7 +135,7 @@
 		<French>Assyria</French>
 		<German>Assyria</German>
 		<Italian>Assyria</Italian>
-		<Spanish>Assyria</Spanish>
+		<Spanish>Asiria</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_ASSYRIAN</Tag>
@@ -143,7 +143,7 @@
 		<French>Assyrian</French>
 		<German>Assyrian</German>
 		<Italian>Assyrian</Italian>
-		<Spanish>Assyrian</Spanish>
+		<Spanish>Asirio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_ASSYRIA_ADJECTIVE</Tag>
@@ -151,7 +151,7 @@
 		<French>Assyrian</French>
 		<German>Assyrian</German>
 		<Italian>Assyrian</Italian>
-		<Spanish>Assyrian</Spanish>
+		<Spanish>Asirio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_NEO_EMPIRE</Tag>
@@ -159,7 +159,7 @@
 		<French>Neo-%s2 Empire</French>
 		<German>Neo-%s2 Empire</German>
 		<Italian>Neo-%s2 Empire</Italian>
-		<Spanish>Neo-%s2 Empire</Spanish>
+		<Spanish>Imperio Neo-%s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_BABYLONIAN_VASSAL</Tag>
@@ -167,7 +167,7 @@
 		<French>Babylonian Phoenicia</French>
 		<German>Babylonian Phoenicia</German>
 		<Italian>Babylonian Phoenicia</Italian>
-		<Spanish>Babylonian Phoenicia</Spanish>
+		<Spanish>Fenicia Babilonia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_ADJECTIVE</Tag>

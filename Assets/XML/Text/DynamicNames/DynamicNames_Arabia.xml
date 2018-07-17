@@ -55,7 +55,7 @@
 		<French>%s2 Sultanates</French>
 		<German>%s2 Sultanates</German>
 		<Italian>%s2 Sultanates</Italian>
-		<Spanish>%s2 Sultanates</Spanish>
+		<Spanish>Sultanatos %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_REPUBLIC</Tag>
@@ -100,7 +100,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Estado Pan-&#193;rabo</Text>
+			<Text>Estado Pan-&#193;rabe</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -135,7 +135,7 @@
 		<French>Saudi-Arabia</French>
 		<German>Saudi-Arabia</German>
 		<Italian>Saudi-Arabia</Italian>
-		<Spanish>Saudi-Arabia</Spanish>
+		<Spanish>Arabia Saudita</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_RASHIDUN</Tag>
@@ -151,7 +151,7 @@
 		<French>Umayyad</French>
 		<German>Umayyad</German>
 		<Italian>Umayyad</Italian>
-		<Spanish>Umayyad</Spanish>
+		<Spanish>Omeya</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_ABBASID</Tag>
@@ -159,7 +159,7 @@
 		<French>Abbasid</French>
 		<German>Abbasid</German>
 		<Italian>Abbasid</Italian>
-		<Spanish>Abbasid</Spanish>
+		<Spanish>Abasida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIAN_VASSAL</Tag>
@@ -391,7 +391,7 @@
 		<French>Emirate of Delhi</French>
 		<German>Emirate of Delhi</German>
 		<Italian>Emirate of Delhi</Italian>
-		<Spanish>Emirate of Delhi</Spanish>
+		<Spanish>Emirato de Delhi</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_ADJECTIVE</Tag>

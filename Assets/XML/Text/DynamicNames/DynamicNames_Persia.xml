@@ -68,7 +68,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Reino del Sah de %s2</Text>
+			<Text>Reino del Shah de %s2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -79,7 +79,7 @@
 		<French>Neo-Persian Empire</French>
 		<German>Neo-Persian Empire</German>
 		<Italian>Neo-Persian Empire</Italian>
-		<Spanish>Neo-Persian Empire</Spanish>
+		<Spanish>Imperio Neopersa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IRAN_DEFAULT</Tag>
@@ -100,7 +100,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Reino del Sah de %s2</Text>
+			<Text>Reino del Shah de %s2</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -111,7 +111,7 @@
 		<French>National-Socialist Workers' %s1</French>
 		<German>National-Socialist Workers' %s1</German>
 		<Italian>National-Socialist Workers' %s1</Italian>
-		<Spanish>National-Socialist Workers' %s1</Spanish>
+		<Spanish>Imperio de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_MEDIAN</Tag>
@@ -119,7 +119,7 @@
 		<French>Median</French>
 		<German>Median</German>
 		<Italian>Median</Italian>
-		<Spanish>Median</Spanish>
+		<Spanish>Medo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_PARTHIAN</Tag>
@@ -127,7 +127,7 @@
 		<French>Parthian</French>
 		<German>Parthian</German>
 		<Italian>Parthian</Italian>
-		<Spanish>Parthian</Spanish>
+		<Spanish>Parto</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_ACHAEMENID</Tag>
@@ -135,7 +135,7 @@
 		<French>Achaemenid</French>
 		<German>Achaemenid</German>
 		<Italian>Achaemenid</Italian>
-		<Spanish>Achaemenid</Spanish>
+		<Spanish>Aquem&#233;nida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_SASSANID</Tag>
@@ -143,7 +143,7 @@
 		<French>Sassanid</French>
 		<German>Sassanid</German>
 		<Italian>Sassanid</Italian>
-		<Spanish>Sassanid</Spanish>
+		<Spanish>Sas&#225;nida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_SAFAVID</Tag>
@@ -151,7 +151,7 @@
 		<French>Safavid</French>
 		<German>Safavid</German>
 		<Italian>Safavid</Italian>
-		<Spanish>Safavid</Spanish>
+		<Spanish>Saf&#225;vida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_QAJAR</Tag>
@@ -415,7 +415,7 @@
 		<French>Malacca</French>
 		<German>Malacca</German>
 		<Italian>Malacca</Italian>
-		<Spanish>Malacca</Spanish>
+		<Spanish>Malaca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIAN_NAME_TURKS</Tag>
@@ -431,7 +431,7 @@
 		<French>Iranian</French>
 		<German>Iranian</German>
 		<Italian>Iranian</Italian>
-		<Spanish>Iranian</Spanish>
+		<Spanish>Iran&#237;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IRAN_DESC</Tag>
@@ -463,7 +463,7 @@
 		<French>Iran</French>
 		<German>Iran</German>
 		<Italian>Iran</Italian>
-		<Spanish>Iran</Spanish>
+		<Spanish>Ir&#225;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_ADJECTIVE</Tag>

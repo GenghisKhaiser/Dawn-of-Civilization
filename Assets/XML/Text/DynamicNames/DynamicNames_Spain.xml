@@ -31,7 +31,7 @@
 		<French>Asturian Peoples</French>
 		<German>Asturian Peoples</German>
 		<Italian>Asturian Peoples</Italian>
-		<Spanish>Asturian Peoples</Spanish>
+		<Spanish>Pueblos Asturianos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_DEFAULT</Tag>
@@ -135,7 +135,7 @@
 		<French>Castile</French>
 		<German>Castile</German>
 		<Italian>Castile</Italian>
-		<Spanish>Castile</Spanish>
+		<Spanish>Castilla</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_CASTILIAN</Tag>
@@ -143,7 +143,7 @@
 		<French>Castilian</French>
 		<German>Castilian</German>
 		<Italian>Castilian</Italian>
-		<Spanish>Castilian</Spanish>
+		<Spanish>Castellano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_IBERIA</Tag>
@@ -183,7 +183,7 @@
 		<French>Crown of %s1</French>
 		<German>Crown of %s1</German>
 		<Italian>Crown of %s1</Italian>
-		<Spanish>Crown of %s1</Spanish>
+		<Spanish>Corona de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_ARAGON</Tag>
@@ -191,7 +191,7 @@
 		<French>Aragon</French>
 		<German>Aragon</German>
 		<Italian>Aragon</Italian>
-		<Spanish>Aragon</Spanish>
+		<Spanish>Arag&#243;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_ARAGONESE</Tag>
@@ -199,7 +199,7 @@
 		<French>Aragonese</French>
 		<German>Aragonese</German>
 		<Italian>Aragonese</Italian>
-		<Spanish>Aragonese</Spanish>
+		<Spanish>Aragon&#233;s</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_VASSAL</Tag>
@@ -231,7 +231,7 @@
 		<French>%s2 Lebanon</French>
 		<German>%s2 Lebanon</German>
 		<Italian>%s2 Lebanon</Italian>
-		<Spanish>%s2 Lebanon</Spanish>
+		<Spanish>L&#237;bano %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_ETHIOPIA</Tag>
@@ -276,7 +276,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Diocesis de Yucat&#225;n</Text>
+			<Text>Di&#243;cesis de Yucat&#225;n</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -287,7 +287,7 @@
 		<French>Latin Empire</French>
 		<German>Latin Empire</German>
 		<Italian>Latin Empire</Italian>
-		<Spanish>Latin Empire</Spanish>
+		<Spanish>Imperio Latino</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_INDONESIA</Tag>
@@ -295,7 +295,7 @@
 		<French>%s2 East Indies</French>
 		<German>%s2 East Indies</German>
 		<Italian>%s2 East Indies</Italian>
-		<Spanish>%s2 East Indies</Spanish>
+		<Spanish>Indias Orientales %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_MOORS</Tag>
@@ -431,7 +431,7 @@
 		<French>Viceroyalty of the Rio de la Plata</French>
 		<German>Viceroyalty of the Rio de la Plata</German>
 		<Italian>Viceroyalty of the Rio de la Plata</Italian>
-		<Spanish>Viceroyalty of the Rio de la Plata</Spanish>
+		<Spanish>Virreinato del R&#237;o de la Plata</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_COLOMBIA</Tag>
@@ -439,7 +439,7 @@
 		<French>Viceroyalty of New Granada</French>
 		<German>Viceroyalty of New Granada</German>
 		<Italian>Viceroyalty of New Granada</Italian>
-		<Spanish>Viceroyalty of New Granada</Spanish>
+		<Spanish>Virreinato de Nueva Granada</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_NAME_KHMER</Tag>
@@ -471,7 +471,7 @@
 		<French>New Spain</French>
 		<German>New Spain</German>
 		<Italian>New Spain</Italian>
-		<Spanish>New Spain</Spanish>
+		<Spanish>Nueva Espa&#241;a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_NAME_MUGHALS</Tag>
@@ -479,7 +479,7 @@
 		<French>West India</French>
 		<German>West India</German>
 		<Italian>West India</Italian>
-		<Spanish>West India</Spanish>
+		<Spanish>India Occidental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_ADJECTIVE</Tag>

@@ -92,7 +92,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>%s1 de los Oficiales</Text>
+			<Text>Naci&#243;n de %s1</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -116,7 +116,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Reuni&#243;n por la Liberaci&#243;n del %s1</Text>
+			<Text>Uni&#243;n Socialista de %s1</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -127,7 +127,7 @@
 		<French>Ptolemaic Empire</French>
 		<German>Ptolemaic Empire</German>
 		<Italian>Ptolemaic Empire</Italian>
-		<Spanish>Ptolemaic Empire</Spanish>
+		<Spanish>Imperio Ptolemaico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_OLD_KINGDOM</Tag>
@@ -135,7 +135,7 @@
 		<French>Old Kingdom of %s1</French>
 		<German>Old Kingdom of %s1</German>
 		<Italian>Old Kingdom of %s1</Italian>
-		<Spanish>Old Kingdom of %s1</Spanish>
+		<Spanish>Imperio Antiguo de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_MIDDLE_KINGDOM</Tag>
@@ -143,7 +143,7 @@
 		<French>Middle Kingdom of %s1</French>
 		<German>Middle Kingdom of %s1</German>
 		<Italian>Middle Kingdom of %s1</Italian>
-		<Spanish>Middle Kingdom of %s1</Spanish>
+		<Spanish>Imperio Medio de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_NEW_KINGDOM</Tag>
@@ -151,7 +151,7 @@
 		<French>New Kingdom of %s1</French>
 		<German>New Kingdom of %s1</German>
 		<Italian>New Kingdom of %s1</Italian>
-		<Spanish>New Kingdom of %s1</Spanish>
+		<Spanish>Imperio Nuevo de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_COPTIC</Tag>
@@ -159,7 +159,7 @@
 		<French>Coptic Kingdom</French>
 		<German>Coptic Kingdom</German>
 		<Italian>Coptic Kingdom</Italian>
-		<Spanish>Coptic Kingdom</Spanish>
+		<Spanish>Reino Copto</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_MAMLUK</Tag>
@@ -167,7 +167,7 @@
 		<French>Mamluk</French>
 		<German>Mamluk</German>
 		<Italian>Mamluk</Italian>
-		<Spanish>Mamluk</Spanish>
+		<Spanish>Mameluco</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_FATIMID</Tag>
@@ -175,7 +175,7 @@
 		<French>Fatimid</French>
 		<German>Fatimid</German>
 		<Italian>Fatimid</Italian>
-		<Spanish>Fatimid</Spanish>
+		<Spanish>Fatim&#237;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_AYYUBID</Tag>
@@ -183,7 +183,7 @@
 		<French>Ayyubid</French>
 		<German>Ayyubid</German>
 		<Italian>Ayyubid</Italian>
-		<Spanish>Ayyubid</Spanish>
+		<Spanish>Ayub&#237;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPTIAN_PHOENICIA</Tag>
@@ -191,7 +191,7 @@
 		<French>Province of Retjenu</French>
 		<German>Province of Retjenu</German>
 		<Italian>Province of Retjenu</Italian>
-		<Spanish>Province of Retjenu</Spanish>
+		<Spanish>Provincia de Retjenu</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPTIAN_ETHIOPIA</Tag>
@@ -199,7 +199,7 @@
 		<French>Kingdom of Punt</French>
 		<German>Kingdom of Punt</German>
 		<Italian>Kingdom of Punt</Italian>
-		<Spanish>Kingdom of Punt</Spanish>
+		<Spanish>Reino de Punt</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_ADJECTIVE</Tag>
