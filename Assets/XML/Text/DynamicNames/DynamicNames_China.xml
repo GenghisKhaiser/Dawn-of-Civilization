@@ -55,7 +55,7 @@
 		<French>Middle Kingdom of %s1</French>
 		<German>Middle Kingdom of %s1</German>
 		<Italian>Middle Kingdom of %s1</Italian>
-		<Spanish>Middle Kingdom of %s1</Spanish>
+		<Spanish>Reino Central de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_FASCIST</Tag>
@@ -63,7 +63,7 @@
 		<French>Nation of %s1</French>
 		<German>Nation of %s1</German>
 		<Italian>Nation of %s1</Italian>
-		<Spanish>Nation of %s1</Spanish>
+		<Spanish>Naci&#243;n de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_ZHOU</Tag>
@@ -131,7 +131,7 @@
 		<French>the Great Ming</French>
 		<German>the Great Ming</German>
 		<Italian>the Great Ming</Italian>
-		<Spanish>the Great Ming</Spanish>
+		<Spanish>Gran Ming</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_QING</Tag>
@@ -139,7 +139,7 @@
 		<French>the Great Qing</French>
 		<German>the Great Qing</German>
 		<Italian>the Great Qing</Italian>
-		<Spanish>the Great Qing</Spanish>
+		<Spanish>Gran Qing</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINESE_VASSAL</Tag>
@@ -171,7 +171,7 @@
 		<French>Protectorate General to Pacify the East</French>
 		<German>Protectorate General to Pacify the East</German>
 		<Italian>Protectorate General to Pacify the East</Italian>
-		<Spanish>Protectorate General to Pacify the East</Spanish>
+		<Spanish>Protectorado General para Pacificar el Este</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINESE_TURKS</Tag>
@@ -179,7 +179,7 @@
 		<French>Protectorate General to Pacify the West</French>
 		<German>Protectorate General to Pacify the West</German>
 		<Italian>Protectorate General to Pacify the West</Italian>
-		<Spanish>Protectorate General to Pacify the West</Spanish>
+		<Spanish>Protectorado General para Pacificar el Oeste</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINESE_MONGOLIA</Tag>
@@ -187,7 +187,7 @@
 		<French>Protectorate General to Pacify the North</French>
 		<German>Protectorate General to Pacify the North</German>
 		<Italian>Protectorate General to Pacify the North</Italian>
-		<Spanish>Protectorate General to Pacify the North</Spanish>
+		<Spanish>Protectorado General para Pacificar el Norte</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINESE_ADJECTIVE_EGYPT</Tag>

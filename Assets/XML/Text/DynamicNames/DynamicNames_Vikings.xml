@@ -31,7 +31,7 @@
 		<French>The Swedish</French>
 		<German>The Swedish</German>
 		<Italian>The Swedish</Italian>
-		<Spanish>The Swedish</Spanish>
+		<Spanish>Los Suecos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_SHORT_DESC</Tag>
@@ -39,7 +39,7 @@
 		<French>Sweden</French>
 		<German>Sweden</German>
 		<Italian>Sweden</Italian>
-		<Spanish>Sweden</Spanish>
+		<Spanish>Suecia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_ADJECTIVE</Tag>
@@ -47,7 +47,7 @@
 		<French>Swedish</French>
 		<German>Swedish</German>
 		<Italian>Swedish</Italian>
-		<Spanish>Swedish</Spanish>
+		<Spanish>Sueco</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_SHORT_DESC</Tag>
@@ -55,7 +55,7 @@
 		<French>Denmark</French>
 		<German>Denmark</German>
 		<Italian>Denmark</Italian>
-		<Spanish>Denmark</Spanish>
+		<Spanish>Dinamarca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_DEFAULT</Tag>
@@ -63,7 +63,7 @@
 		<French>Kingdom of %s1</French>
 		<German>Kingdom of %s1</German>
 		<Italian>Kingdom of %s1</Italian>
-		<Spanish>Kingdom of %s1</Spanish>
+		<Spanish>Reino de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_ADJECTIVE</Tag>
@@ -71,7 +71,7 @@
 		<French>Danish</French>
 		<German>Danish</German>
 		<Italian>Danish</Italian>
-		<Spanish>Danish</Spanish>
+		<Spanish>Dan&#233;s</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC</Tag>
@@ -79,14 +79,14 @@
 		<French>Norway</French>
 		<German>Norway</German>
 		<Italian>Norway</Italian>
-		<Spanish>Norway</Spanish>
+		<Spanish>Noruega</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NORWAY_DEFAULT</Tag>
 		<English>Kingdom of %s1</English>
 		<French>Kingdom of %s1</French>
 		<German>Kingdom of %s1</German>
-		<Italian>Kingdom of %s1</Italian>
+		<Italian>Reino de %s1</Italian>
 		<Spanish>Kingdom of %s1</Spanish>
 	</TEXT>
 	<TEXT>
@@ -95,7 +95,7 @@
 		<French>Norwegian</French>
 		<German>Norwegian</German>
 		<Italian>Norwegian</Italian>
-		<Spanish>Norwegian</Spanish>
+		<Spanish>Noruego</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_DEFAULT</Tag>
@@ -103,7 +103,7 @@
 		<French>Kingdom of %s1</French>
 		<German>Kingdom of %s1</German>
 		<Italian>Kingdom of %s1</Italian>
-		<Spanish>Kingdom of %s1</Spanish>
+		<Spanish>Reino de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_FASCIST</Tag>
@@ -111,7 +111,7 @@
 		<French>National Gathering of %s1</French>
 		<German>National Gathering of %s1</German>
 		<Italian>National Gathering of %s1</Italian>
-		<Spanish>National Gathering of %s1</Spanish>
+		<Spanish>Agrupaci&#243;n Nacional de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_PEOPLES</Tag>
@@ -132,7 +132,7 @@
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Pueblos N&#243;rdises</Text>
+			<Text>Pueblos N&#243;rdicos</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</Spanish>
@@ -191,7 +191,7 @@
 		<French>National Gathering of %s1</French>
 		<German>National Gathering of %s1</German>
 		<Italian>National Gathering of %s1</Italian>
-		<Spanish>National Gathering of %s1</Spanish>
+		<Spanish>Agrupaci&#243;n Nacional de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_NORSE_KINGDOMS</Tag>
@@ -199,7 +199,7 @@
 		<French>Norse Kingdoms</French>
 		<German>Norse Kingdoms</German>
 		<Italian>Norse Kingdoms</Italian>
-		<Spanish>Norse Kingdoms</Spanish>
+		<Spanish>Reinos N&#243;rdicos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_KALMAR_UNION</Tag>
@@ -207,7 +207,7 @@
 		<French>Kalmar Union</French>
 		<German>Kalmar Union</German>
 		<Italian>Kalmar Union</Italian>
-		<Spanish>Kalmar Union</Spanish>
+		<Spanish>Uni&#243;n de Kalmar</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_ALTHINGS</Tag>
@@ -215,7 +215,7 @@
 		<French>%s2 Althings</French>
 		<German>%s2 Althings</German>
 		<Italian>%s2 Althings</Italian>
-		<Spanish>%s2 Althings</Spanish>
+		<Spanish>Althings %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_SWEDISH</Tag>
@@ -223,7 +223,7 @@
 		<French>Swedish</French>
 		<German>Swedish</German>
 		<Italian>Swedish</Italian>
-		<Spanish>Swedish</Spanish>
+		<Spanish>Sueco</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DENMARK_NORWAY</Tag>
@@ -231,7 +231,7 @@
 		<French>Denmark-Norway</French>
 		<German>Denmark-Norway</German>
 		<Italian>Denmark-Norway</Italian>
-		<Spanish>Denmark-Norway</Spanish>
+		<Spanish>Dinamarca y Noruega</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_NORWAY</Tag>
@@ -239,7 +239,7 @@
 		<French>Norway</French>
 		<German>Norway</German>
 		<Italian>Norway</Italian>
-		<Spanish>Norway</Spanish>
+		<Spanish>Noruega</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_SWEDEN</Tag>
@@ -247,7 +247,7 @@
 		<French>Sweden</French>
 		<German>Sweden</German>
 		<Italian>Sweden</Italian>
-		<Spanish>Sweden</Spanish>
+		<Spanish>Suecia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DENMARK</Tag>
@@ -255,7 +255,7 @@
 		<French>Denmark</French>
 		<German>Denmark</German>
 		<Italian>Denmark</Italian>
-		<Spanish>Denmark</Spanish>
+		<Spanish>Dinamarca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_SCANDINAVIA</Tag>
@@ -287,7 +287,7 @@
 		<French>Scandinavian</French>
 		<German>Scandinavian</German>
 		<Italian>Scandinavian</Italian>
-		<Spanish>Scandinavian</Spanish>
+		<Spanish>Escandinavo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKING_ENGLAND</Tag>
@@ -303,7 +303,7 @@
 		<French>Varangian Principalities</French>
 		<German>Varangian Principalities</German>
 		<Italian>Varangian Principalities</Italian>
-		<Spanish>Varangian Principalities</Spanish>
+		<Spanish>Principados Varegos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKING_ADJECTIVE</Tag>
@@ -348,7 +348,7 @@
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Vikingland</Text>
+			<Text>Escandinavia</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>

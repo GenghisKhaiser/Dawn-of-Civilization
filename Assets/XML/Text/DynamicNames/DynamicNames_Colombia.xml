@@ -7,7 +7,7 @@
 		<French>The Colombians</French>
 		<German>The Colombians</German>
 		<Italian>The Colombians</Italian>
-		<Spanish>The Colombians</Spanish>
+		<Spanish>Los Colombianos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Colombian Peoples</French>
 		<German>Colombian Peoples</German>
 		<Italian>Colombian Peoples</Italian>
-		<Spanish>Colombian Peoples</Spanish>
+		<Spanish>Pueblos Colombianos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_DEFAULT</Tag>
@@ -23,7 +23,7 @@
 		<French>Kingdom of New Granada</French>
 		<German>Kingdom of New Granada</German>
 		<Italian>Kingdom of New Granada</Italian>
-		<Spanish>Kingdom of New Granada</Spanish>
+		<Spanish>Reino de Nueva Granada</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_REPUBLIC</Tag>
@@ -55,7 +55,7 @@
 		<French>Socialist Republic of %s1</French>
 		<German>Socialist Republic of %s1</German>
 		<Italian>Socialist Republic of %s1</Italian>
-		<Spanish>Socialist Republic of %s1</Spanish>
+		<Spanish>Rep&#250;blica Bolivariana de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_FASCIST</Tag>
@@ -63,7 +63,7 @@
 		<French>Falangist %s1</French>
 		<German>Falangist %s1</German>
 		<Italian>Falangist %s1</Italian>
-		<Spanish>Falangist %s1</Spanish>
+		<Spanish>%s1 Falangista</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_EMPIRE</Tag>
@@ -71,7 +71,7 @@
 		<French>Empire of Gran Colombia</French>
 		<German>Empire of Gran Colombia</German>
 		<Italian>Empire of Gran Colombia</Italian>
-		<Spanish>Empire of Gran Colombia</Spanish>
+		<Spanish>Imperio de la Gran Colombia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_ADJECTIVE</Tag>
@@ -79,7 +79,7 @@
 		<French>Colombian</French>
 		<German>Colombian</German>
 		<Italian>Colombian</Italian>
-		<Spanish>Colombian</Spanish>
+		<Spanish>Colombiano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_SHORT_DESC</Tag>

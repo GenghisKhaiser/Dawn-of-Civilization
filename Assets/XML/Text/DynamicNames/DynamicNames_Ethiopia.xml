@@ -103,7 +103,7 @@
 		<French>Federal Democratic Republic of %s1</French>
 		<German>Federal Democratic Republic of %s1</German>
 		<Italian>Federal Democratic Republic of %s1</Italian>
-		<Spanish>Federal Democratic Republic of %s1</Spanish>
+		<Spanish>Rep&#250;blica Democr&#225;tica Federal de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_COMMUNIST</Tag>
@@ -111,7 +111,7 @@
 		<French>People's Democratic Republic of %s1</French>
 		<German>People's Democratic Republic of %s1</German>
 		<Italian>People's Democratic Republic of %s1</Italian>
-		<Spanish>People's Democratic Republic of %s1</Spanish>
+		<Spanish>Rep&#250;blica Democr&#225;tica Popular de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_AKSUM</Tag>

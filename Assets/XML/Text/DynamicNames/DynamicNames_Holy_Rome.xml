@@ -31,7 +31,7 @@
 		<French>The Austrians</French>
 		<German>The Austrians</German>
 		<Italian>The Austrians</Italian>
-		<Spanish>The Austrians</Spanish>
+		<Spanish>Los Austriacos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_PEOPLES</Tag>
@@ -87,7 +87,7 @@
 		<French>Greater %s2 Empire</French>
 		<German>Greater %s2 Empire</German>
 		<Italian>Greater %s2 Empire</Italian>
-		<Spanish>Greater %s2 Empire</Spanish>
+		<Spanish>Gran Imperio %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_AUSTRO_HUNGARIAN</Tag>
@@ -95,7 +95,7 @@
 		<French>Austro-Hungarian</French>
 		<German>Austro-Hungarian</German>
 		<Italian>Austro-Hungarian</Italian>
-		<Spanish>Austro-Hungarian</Spanish>
+		<Spanish>Austroh&#225;ngaro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_ARCHDUCHY_OF</Tag>
@@ -103,7 +103,7 @@
 		<French>Archduchy of %s1</French>
 		<German>Archduchy of %s1</German>
 		<Italian>Archduchy of %s1</Italian>
-		<Spanish>Archduchy of %s1</Spanish>
+		<Spanish>Archiducado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_HABSBURG</Tag>
@@ -111,7 +111,7 @@
 		<French>Habsburg</French>
 		<German>Habsburg</German>
 		<Italian>Habsburg</Italian>
-		<Spanish>Habsburg</Spanish>
+		<Spanish>Habsburgo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_GERMANY</Tag>
@@ -119,7 +119,7 @@
 		<French>Germany</French>
 		<German>Germany</German>
 		<Italian>Germany</Italian>
-		<Spanish>Germany</Spanish>
+		<Spanish>Alemania</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_GERMAN</Tag>
@@ -151,7 +151,7 @@
 		<French>Archduchy of %s1</French>
 		<German>Archduchy of %s1</German>
 		<Italian>Archduchy of %s1</Italian>
-		<Spanish>Archduchy of %s1</Spanish>
+		<Spanish>Archiducado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_FASCIST</Tag>
@@ -159,7 +159,7 @@
 		<French>Federal State of %s1</French>
 		<German>Federal State of %s1</German>
 		<Italian>Federal State of %s1</Italian>
-		<Spanish>Federal State of %s1</Spanish>
+		<Spanish>Estado Federal de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_SHORT_DESC</Tag>
@@ -175,7 +175,7 @@
 		<French>Austrian</French>
 		<German>Austrian</German>
 		<Italian>Austrian</Italian>
-		<Spanish>Austrian</Spanish>
+		<Spanish>Austriaco</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROMAN_ITALY</Tag>
@@ -183,7 +183,7 @@
 		<French>Crown of %s1</French>
 		<German>Crown of %s1</German>
 		<Italian>Crown of %s1</Italian>
-		<Spanish>Crown of %s1</Spanish>
+		<Spanish>Corona de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROMAN_FRANCE</Tag>
@@ -191,7 +191,7 @@
 		<French>West Francia</French>
 		<German>West Francia</German>
 		<Italian>West Francia</Italian>
-		<Spanish>West Francia</Spanish>
+		<Spanish>Francia Occidental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROMAN_NETHERLANDS</Tag>
@@ -199,7 +199,7 @@
 		<French>Duchy of Brabant</French>
 		<German>Duchy of Brabant</German>
 		<Italian>Duchy of Brabant</Italian>
-		<Spanish>Duchy of Brabant</Spanish>
+		<Spanish>Ducado de Brabante</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROMAN_BYZANTIUM</Tag>
@@ -207,7 +207,7 @@
 		<French>Latin Empire</French>
 		<German>Latin Empire</German>
 		<Italian>Latin Empire</Italian>
-		<Spanish>Latin Empire</Spanish>
+		<Spanish>Imperio Latino</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROMAN_POLAND</Tag>
@@ -215,7 +215,7 @@
 		<French>Duchy of %s1</French>
 		<German>Duchy of %s1</German>
 		<Italian>Duchy of %s1</Italian>
-		<Spanish>Duchy of %s1</Spanish>
+		<Spanish>Ducado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIAN_POLAND</Tag>
@@ -223,7 +223,7 @@
 		<French>Kingdom of Galicia and Lodomeria</French>
 		<German>Kingdom of Galicia and Lodomeria</German>
 		<Italian>Kingdom of Galicia and Lodomeria</Italian>
-		<Spanish>Kingdom of Galicia and Lodomeria</Spanish>
+		<Spanish>Reino de Galicia y Lodomeria</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIAN_ITALY</Tag>
@@ -231,7 +231,7 @@
 		<French>Grand Duchy of Tuscany</French>
 		<German>Grand Duchy of Tuscany</German>
 		<Italian>Grand Duchy of Tuscany</Italian>
-		<Spanish>Grand Duchy of Tuscany</Spanish>
+		<Spanish>Gran Ducado de Toscana</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_HUNGARY</Tag>
@@ -239,7 +239,7 @@
 		<French>Hungary</French>
 		<German>Hungary</German>
 		<Italian>Hungary</Italian>
-		<Spanish>Hungary</Spanish>
+		<Spanish>Hungr&#237;a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_HUNGARIAN</Tag>
@@ -247,6 +247,6 @@
 		<French>Hungarian</French>
 		<German>Hungarian</German>
 		<Italian>Hungarian</Italian>
-		<Spanish>Hungarian</Spanish>
+		<Spanish>H&#250;ngaro</Spanish>
 	</TEXT>
 </Civ4GameText>

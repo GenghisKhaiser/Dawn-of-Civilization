@@ -7,7 +7,7 @@
 		<French>Peoples of %s1</French>
 		<German>Peoples of %s1</German>
 		<Italian>Peoples of %s1</Italian>
-		<Spanish>Peoples of %s1</Spanish>
+		<Spanish>Pueblos de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEOPLES_ADJECTIVE</Tag>
@@ -15,7 +15,7 @@
 		<French>%s2 Peoples</French>
 		<German>%s2 Peoples</German>
 		<Italian>%s2 Peoples</Italian>
-		<Spanish>%s2 Peoples</Spanish>
+		<Spanish>Pueblos %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPIRE_OF</Tag>
@@ -23,7 +23,7 @@
 		<French>Empire of %s1</French>
 		<German>Empire of %s1</German>
 		<Italian>Empire of %s1</Italian>
-		<Spanish>Esmpire of %s1</Spanish>
+		<Spanish>Imperio de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EMPIRE_ADJECTIVE</Tag>
@@ -79,7 +79,7 @@
 		<French>%s2 Kingdom</French>
 		<German>%s2 Kingdom</German>
 		<Italian>%s2 Kingdom</Italian>
-		<Spanish>%s2 Kingdom</Spanish>
+		<Spanish>Reino %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REPUBLIC_OF</Tag>
@@ -135,7 +135,7 @@
 		<French>Socialist Republic of %s1</French>
 		<German>Socialist Republic of %s1</German>
 		<Italian>Socialist Republic of %s1</Italian>
-		<Spanish>Socialist Republic of %s1</Spanish>
+		<Spanish>Rep&#250;blica Socialista de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SOCIALIST_REPUBLIC_ADJECTIVE</Tag>
@@ -239,7 +239,7 @@
 		<French>%s2 People's Republic</French>
 		<German>%s2 People's Republic</German>
 		<Italian>%s2 People's Republic</Italian>
-		<Spanish>%s2 People's Republic</Spanish>
+		<Spanish>Rep&#250;blica Popular %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_STATES_OF</Tag>
@@ -247,7 +247,7 @@
 		<French>City States of %s1</French>
 		<German>City States of %s1</German>
 		<Italian>City States of %s1</Italian>
-		<Spanish>City States of %s1</Spanish>
+		<Spanish>Ciudades-Estado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_STATES_ADJECTIVE</Tag>
@@ -268,7 +268,7 @@
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Ciudades-Estados %s2</Text>
+			<Text>Ciudades-Estado %s2</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</Spanish>
@@ -415,7 +415,7 @@
 		<French>%s2 Islamic Republic</French>
 		<German>%s2 Islamic Republic</German>
 		<Italian>%s2 Islamic Republic</Italian>
-		<Spanish>%s2 Islamic Republic</Spanish>
+		<Spanish>Rep&#250;blica Isl&#225;mica %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MANDATE_OF</Tag>
@@ -447,7 +447,7 @@
 		<French>%s2 Confederation</French>
 		<German>%s2 Confederation</German>
 		<Italian>%s2 Confederation</Italian>
-		<Spanish>%s2 Confederation</Spanish>
+		<Spanish>Confederaci&#243;n %s2 </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROTECTORATE_OF</Tag>

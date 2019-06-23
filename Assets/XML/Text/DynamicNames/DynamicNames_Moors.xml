@@ -7,7 +7,7 @@
 		<French>The Moors</French>
 		<German>The Moors</German>
 		<Italian>The Moors</Italian>
-		<Spanish>The Moors</Spanish>
+		<Spanish>Los Moros</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Andalusian Peoples</French>
 		<German>Andalusian Peoples</German>
 		<Italian>Andalusian Peoples</Italian>
-		<Spanish>Andalusian Peoples</Spanish>
+		<Spanish>Pueblos Andaluces</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOROCCO_SHORT_DESC</Tag>
@@ -23,7 +23,7 @@
 		<French>Morocco</French>
 		<German>Morocco</German>
 		<Italian>Morocco</Italian>
-		<Spanish>Morocco</Spanish>
+		<Spanish>Marruecos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOROCCO_ADJECTIVE</Tag>
@@ -31,7 +31,7 @@
 		<French>Moroccan</French>
 		<German>Moroccan</German>
 		<Italian>Moroccan</Italian>
-		<Spanish>Moroccan</Spanish>
+		<Spanish>Marroqu&#237;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_DEFAULT</Tag>
@@ -63,7 +63,7 @@
 		<French>Kingdom of %s1</French>
 		<German>Kingdom of %s1</German>
 		<Italian>Kingdom of %s1</Italian>
-		<Spanish>Kingdom of %s1</Spanish>
+		<Spanish>Reino de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOROCCO_FASCIST</Tag>
@@ -71,7 +71,7 @@
 		<French>%s2 State</French>
 		<German>%s2 State</German>
 		<Italian>%s2 State</Italian>
-		<Spanish>%s2 State</Spanish>
+		<Spanish>Estado %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_FASCIST</Tag>
@@ -127,7 +127,7 @@
 		<French>Almohad</French>
 		<German>Almohad</German>
 		<Italian>Almohad</Italian>
-		<Spanish>Almohad</Spanish>
+		<Spanish>Almohade</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_MOROCCO</Tag>
@@ -135,7 +135,7 @@
 		<French>Morocco</French>
 		<German>Morocco</German>
 		<Italian>Morocco</Italian>
-		<Spanish>Morocco</Spanish>
+		<Spanish>Marruecos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_MOROCCAN</Tag>
@@ -143,7 +143,7 @@
 		<French>Moroccan</French>
 		<German>Moroccan</German>
 		<Italian>Moroccan</Italian>
-		<Spanish>Moroccan</Spanish>
+		<Spanish>Marroqu&#237;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_TAIFAS</Tag>
@@ -151,7 +151,7 @@
 		<French>Andalusian Taifas</French>
 		<German>Andalusian Taifas</German>
 		<Italian>Andalusian Taifas</Italian>
-		<Spanish>Andalusian Taifas</Spanish>
+		<Spanish>Taifas Andaluces</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORISH_ARABIA</Tag>
@@ -159,7 +159,7 @@
 		<French>East Umayyad Caliphate</French>
 		<German>East Umayyad Caliphate</German>
 		<Italian>East Umayyad Caliphate</Italian>
-		<Spanish>East Umayyad Caliphate</Spanish>
+		<Spanish>Califato Omeya Oriental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORISH_MALI</Tag>
@@ -167,7 +167,7 @@
 		<French>Pashalik of Timbuktu</French>
 		<German>Pashalik of Timbuktu</German>
 		<Italian>Pashalik of Timbuktu</Italian>
-		<Spanish>Pashalik of Timbuktu</Spanish>
+		<Spanish>Pashalik de Timbukt&#250;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIAN_NAME_ARABIA</Tag>
@@ -199,7 +199,7 @@
 		<French>Moorish</French>
 		<German>Moorish</German>
 		<Italian>Moorish</Italian>
-		<Spanish>Moorish</Spanish>
+		<Spanish>Moro</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_SHORT_DESC</Tag>
@@ -207,6 +207,6 @@
 		<French>Moors</French>
 		<German>Moors</German>
 		<Italian>Moors</Italian>
-		<Spanish>Moors</Spanish>
+		<Spanish>Moros</Spanish>
 	</TEXT>
 </Civ4GameText>

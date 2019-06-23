@@ -55,7 +55,7 @@
 		<French>%s2 Kingdom</French>
 		<German>%s2 Kingdom</German>
 		<Italian>%s2 Kingdom</Italian>
-		<Spanish>%s2 Kingdom</Spanish>
+		<Spanish>Reino %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_COMMUNIST</Tag>
@@ -63,7 +63,7 @@
 		<French>Plebeian Republic</French>
 		<German>Plebeian Republic</German>
 		<Italian>Plebeian Republic</Italian>
-		<Spanish>Plebeian Republic</Spanish>
+		<Spanish>Rep&#250;blica Plebeya</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_FASCIST</Tag>
@@ -95,7 +95,7 @@
 		<French>Western Roman</French>
 		<German>Western Roman</German>
 		<Italian>Western Roman</Italian>
-		<Spanish>Western Roman</Spanish>
+		<Spanish>Romano Occidental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROMAN_VASSAL</Tag>
@@ -199,7 +199,7 @@
 		<French>Magna Graecia</French>
 		<German>Magna Graecia</German>
 		<Italian>Magna Graecia</Italian>
-		<Spanish>Magna Graecia</Spanish>
+		<Spanish>Magna Grecia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROMAN_NAME_PERSIA</Tag>
@@ -231,7 +231,7 @@
 		<French>Syria</French>
 		<German>Syria</German>
 		<Italian>Syria</Italian>
-		<Spanish>Syria</Spanish>
+		<Spanish>Siria</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROMAN_NAME_CARTHAGE</Tag>
@@ -287,7 +287,7 @@
 		<French>Thracia</French>
 		<German>Thracia</German>
 		<Italian>Thracia</Italian>
-		<Spanish>Thracia</Spanish>
+		<Spanish>Tracia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROMAN_NAME_VIKINGS</Tag>
@@ -375,7 +375,7 @@
 		<French>Gaul</French>
 		<German>Gaul</German>
 		<Italian>Gaul</Italian>
-		<Spanish>Gaul</Spanish>
+		<Spanish>Galia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROMAN_NAME_ENGLAND</Tag>
@@ -484,7 +484,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Belgica</Text>
+			<Text>B&#233;lgica</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -580,7 +580,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Asia Minor</Text>
+			<Text>Asia Menor</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>

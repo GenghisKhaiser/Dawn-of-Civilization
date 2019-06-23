@@ -20,7 +20,7 @@
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Los Holand&#233;ses</Text>
+			<Text>Los Holandeses</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</Spanish>
@@ -31,7 +31,7 @@
 		<French>Dutch Peoples</French>
 		<German>Dutch Peoples</German>
 		<Italian>Dutch Peoples</Italian>
-		<Spanish>Dutch Peoples</Spanish>
+		<Spanish>Pueblos Holandeses</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_DEFAULT</Tag>
@@ -76,7 +76,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Rep&#250;blica de las Siete Pa&#237;ses Bajos Unidos</Text>
+			<Text>Rep&#250;blica de los Siete Pa&#237;ses Bajos Unidos</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -87,7 +87,7 @@
 		<French>Democratic Republic of %s1</French>
 		<German>Democratic Republic of %s1</German>
 		<Italian>Democratic Republic of %s1</Italian>
-		<Spanish>Democratic Republic of %s1</Spanish>
+		<Spanish>Rep&#250;blica Democr&#225;tica de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_FASCIST</Tag>
@@ -119,7 +119,7 @@
 		<French>United Kingdom of %s1</French>
 		<German>United Kingdom of %s1</German>
 		<Italian>United Kingdom of %s1</Italian>
-		<Spanish>United Kingdom of %s1</Spanish>
+		<Spanish>Reino Unido de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_EXILE</Tag>
@@ -127,7 +127,7 @@
 		<French>%s2 Government in Exile</French>
 		<German>%s2 Government in Exile</German>
 		<Italian>%s2 Government in Exile</Italian>
-		<Spanish>%s2 Government in Exile</Spanish>
+		<Spanish>Gobierno %s2 en Exilio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_BELGIUM</Tag>
@@ -135,7 +135,7 @@
 		<French>Belgium</French>
 		<German>Belgium</German>
 		<Italian>Belgium</Italian>
-		<Spanish>Belgium</Spanish>
+		<Spanish>B&#233;lgica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_BELGIAN</Tag>
@@ -143,7 +143,7 @@
 		<French>Belgian</French>
 		<German>Belgian</German>
 		<Italian>Belgian</Italian>
-		<Spanish>Belgian</Spanish>
+		<Spanish>Belga</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_INDONESIA</Tag>
@@ -151,7 +151,7 @@
 		<French>%s2 East Indies</French>
 		<German>%s2 East Indies</German>
 		<Italian>%s2 East Indies</Italian>
-		<Spanish>%s2 East Indies</Spanish>
+		<Spanish>Indias Orientales Holandesas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_CONGO</Tag>
@@ -159,7 +159,7 @@
 		<French>Congo Free State</French>
 		<German>Congo Free State</German>
 		<Italian>Congo Free State</Italian>
-		<Spanish>Congo Free State</Spanish>
+		<Spanish>Estado Libre del Congo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_AMERICA</Tag>
@@ -167,7 +167,7 @@
 		<French>New Netherlands</French>
 		<German>New Netherlands</German>
 		<Italian>New Netherlands</Italian>
-		<Spanish>New Netherlands</Spanish>
+		<Spanish>Nuevos Pa&#237;ses Bajos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_BRAZIL</Tag>
@@ -175,7 +175,7 @@
 		<French>New Holland</French>
 		<German>New Holland</German>
 		<Italian>New Holland</Italian>
-		<Spanish>New Holland</Spanish>
+		<Spanish>Nueva Holanda</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_MALI</Tag>
@@ -183,7 +183,7 @@
 		<French>%s2 Gold Coast</French>
 		<German>%s2 Gold Coast</German>
 		<Italian>%s2 Gold Coast</Italian>
-		<Spanish>%s2 Gold Coast</Spanish>
+		<Spanish>Costa de Oro Holandesa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DUTCH_ETHIOPIA</Tag>
@@ -215,7 +215,7 @@
 		<French>the Netherlands</French>
 		<German>the Netherlands</German>
 		<Italian>the Netherlands</Italian>
-		<Spanish>the Netherlands</Spanish>
+		<Spanish>los Pa&#237;ses Bajos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_ADJECTIVE</Tag>

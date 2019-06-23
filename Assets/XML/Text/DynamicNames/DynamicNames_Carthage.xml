@@ -7,7 +7,7 @@
 		<French>The Phoenicians</French>
 		<German>The Phoenicians</German>
 		<Italian>The Phoenicians</Italian>
-		<Spanish>The Phoenicians</Spanish>
+		<Spanish>Los Fenicios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_SHORT_DESC</Tag>
@@ -15,7 +15,7 @@
 		<French>Phoenicia</French>
 		<German>Phoenicia</German>
 		<Italian>Phoenicia</Italian>
-		<Spanish>Phoenicia</Spanish>
+		<Spanish>Fenicia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_ADJECTIVE</Tag>
@@ -27,7 +27,7 @@
 			<Plural>0:0:0</Plural>
 		</German>
 		<Italian>Phoenician</Italian>
-		<Spanish>Phoenician</Spanish>
+		<Spanish>Fenician</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_PEOPLES</Tag>
@@ -35,7 +35,7 @@
 		<French>Canaanite Peoples</French>
 		<German>Canaanite Peoples</German>
 		<Italian>Canaanite Peoples</Italian>
-		<Spanish>Canaanite Peoples</Spanish>
+		<Spanish>Pueblos Cananeos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_DEFAULT</Tag>
@@ -67,7 +67,7 @@
 		<French>Republic of Lebanon</French>
 		<German>Republic of Lebanon</German>
 		<Italian>Republic of Lebanon</Italian>
-		<Spanish>Republic of Lebanon</Spanish>
+		<Spanish>Rep&#250;blica de L&#237;bano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_COMMUNIST</Tag>
@@ -75,7 +75,7 @@
 		<French>People's Republic of Lebanon</French>
 		<German>People's Republic of Lebanon</German>
 		<Italian>People's Republic of Lebanon</Italian>
-		<Spanish>People's Republic of Lebanon</Spanish>
+		<Spanish>Rep&#250;blica Popular de L&#237;bano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_FASCIST</Tag>
@@ -83,7 +83,7 @@
 		<French>National Lebanon</French>
 		<German>National Lebanon</German>
 		<Italian>National Lebanon</Italian>
-		<Spanish>National Lebanon</Spanish>
+		<Spanish>Naci&#243;n Libanesa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_REPUBLIC</Tag>
@@ -91,7 +91,7 @@
 		<French>Punic Republic</French>
 		<German>Punic Republic</German>
 		<Italian>Punic Republic</Italian>
-		<Spanish>Punic Republic</Spanish>
+		<Spanish>Rep&#250;blica P&#250;nica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_COMMUNIST</Tag>
@@ -99,7 +99,7 @@
 		<French>Punic People's Republic</French>
 		<German>Punic People's Republic</German>
 		<Italian>Punic People's Republic</Italian>
-		<Spanish>Punic People's Republic</Spanish>
+		<Spanish>Rep&#250;blica Popular P&#250;nica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_FASCIST</Tag>
@@ -107,7 +107,7 @@
 		<French>New Carthaginian Empire</French>
 		<German>New Carthaginian Empire</German>
 		<Italian>New Carthaginian Empire</Italian>
-		<Spanish>New Carthaginian Empire</Spanish>
+		<Spanish>Imperio Neocartagin&#233;s</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_DEFAULT</Tag>
@@ -115,7 +115,7 @@
 		<French>Carthaginian Empire</French>
 		<German>Carthaginian Empire</German>
 		<Italian>Carthaginian Empire</Italian>
-		<Spanish>Carthaginian Empire</Spanish>
+		<Spanish>Imperio Cartagin&#233;s</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_EMPIRE</Tag>

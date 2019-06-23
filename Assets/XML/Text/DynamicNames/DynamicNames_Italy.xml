@@ -7,7 +7,7 @@
 		<French>Lombard Peoples</French>
 		<German>Lombard Peoples</German>
 		<Italian>Lombard Peoples</Italian>
-		<Spanish>Lombard Peoples</Spanish>
+		<Spanish>Pueblos Lombardos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DEFAULT</Tag>
@@ -39,7 +39,7 @@
 		<French>National Fascist %s1</French>
 		<German>National Fascist %s1</German>
 		<Italian>National Fascist %s1</Italian>
-		<Spanish>National Fascist %s1</Spanish>
+		<Spanish>%s1 Fascista</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_LEAGUE</Tag>
@@ -71,7 +71,7 @@
 		<French>Lombard</French>
 		<German>Lombard</German>
 		<Italian>Lombard</Italian>
-		<Spanish>Lombard</Spanish>
+		<Spanish>Lombard&#237;a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_TUSCANY</Tag>
@@ -79,7 +79,7 @@
 		<French>Tuscany</French>
 		<German>Tuscany</German>
 		<Italian>Tuscany</Italian>
-		<Spanish>Tuscany</Spanish>
+		<Spanish>Toscana</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_MARITIME_REPUBLICS</Tag>
@@ -87,7 +87,7 @@
 		<French>%s2 Maritime Republics</French>
 		<German>%s2 Maritime Republics</German>
 		<Italian>%s2 Maritime Republics</Italian>
-		<Spanish>%s2 Maritime Republics</Spanish>
+		<Spanish>Rep&#250;blicas Marit&#237;mas %s2 </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DUCHY_OF</Tag>
@@ -95,7 +95,7 @@
 		<French>Duchy of %s1</French>
 		<German>Duchy of %s1</German>
 		<Italian>Duchy of %s1</Italian>
-		<Spanish>Duchy of %s1</Spanish>
+		<Spanish>Ducado de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_PAPAL_STATES</Tag>
@@ -103,7 +103,7 @@
 		<French>Papal States</French>
 		<German>Papal States</German>
 		<Italian>Papal States</Italian>
-		<Spanish>Papal States</Spanish>
+		<Spanish>Estados Pontificios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_ADJECTIVE</Tag>
@@ -119,7 +119,7 @@
 		<French>The Italians</French>
 		<German>The Italians</German>
 		<Italian>The Italians</Italian>
-		<Spanish>The Italians</Spanish>
+		<Spanish>Los Italianos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_SHORT_DESC</Tag>

@@ -7,7 +7,7 @@
 		<French>The Harappans</French>
 		<German>The Harappans</German>
 		<Italian>The Harappans</Italian>
-		<Spanish>The Harappans</Spanish>
+		<Spanish>Los Harappa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Indus Valley Peoples</French>
 		<German>Indus Valley Peoples</German>
 		<Italian>Indus Valley Peoples</Italian>
-		<Spanish>Indus Valley Peoples</Spanish>
+		<Spanish>Pueblos del Valle del Indo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DEFAULT</Tag>
@@ -23,7 +23,7 @@
 		<French>Indus Valley City States</French>
 		<German>Indus Valley City States</German>
 		<Italian>Indus Valley City States</Italian>
-		<Spanish>Indus Valley City States</Spanish>
+		<Spanish>Ciudades Estado del Valle del Indo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DEMOCRATIC</Tag>
@@ -31,7 +31,7 @@
 		<French>Indus River Republic</French>
 		<German>Indus River Republic</German>
 		<Italian>Indus River Republic</Italian>
-		<Spanish>Indus River Republic</Spanish>
+		<Spanish>Rep&#250;blica del R&#237;o Indo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_COMMUNIST</Tag>
@@ -39,7 +39,7 @@
 		<French>Democratic Republic of the Indus</French>
 		<German>Democratic Republic of the Indus</German>
 		<Italian>Democratic Republic of the Indus</Italian>
-		<Spanish>Democratic Republic of the Indus</Spanish>
+		<Spanish>Rep&#250;blica Democr&#225;tica del Indo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_FASCIST</Tag>
@@ -47,7 +47,7 @@
 		<French>National Republic of the Indus</French>
 		<German>National Republic of the Indus</German>
 		<Italian>National Republic of the Indus</Italian>
-		<Spanish>National Republic of the Indus</Spanish>
+		<Spanish>Rep&#250;blica Nacional del Indo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_INDUS</Tag>
@@ -55,7 +55,7 @@
 		<French>Indus</French>
 		<German>Indus</German>
 		<Italian>Indus</Italian>
-		<Spanish>Indus</Spanish>
+		<Spanish>Indo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPANS_ADJECTIVE</Tag>
@@ -63,7 +63,7 @@
 		<French>Harappan</French>
 		<German>Harappan</German>
 		<Italian>Harappan</Italian>
-		<Spanish>Harappan</Spanish>
+		<Spanish>Harappa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPANS_DESC</Tag>
@@ -71,7 +71,7 @@
 		<French>The Harappans</French>
 		<German>The Harappans</German>
 		<Italian>The Harappans</Italian>
-		<Spanish>The Harappans</Spanish>
+		<Spanish>Los Harappa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPANS_SHORT_DESC</Tag>

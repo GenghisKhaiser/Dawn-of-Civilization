@@ -20,7 +20,7 @@
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Los Ingl&#233;ses</Text>
+			<Text>Los Ingleses</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</Spanish>
@@ -31,7 +31,7 @@
 		<French>Anglo-Saxon Peoples</French>
 		<German>Anglo-Saxon Peoples</German>
 		<Italian>Anglo-Saxon Peoples</Italian>
-		<Spanish>Anglo-Saxon Peoples</Spanish>
+		<Spanish>Pueblos Anglosajones</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_DEFAULT</Tag>
@@ -76,7 +76,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Commonwealth de %s1</Text>
+			<Text>Mancomunidad de %s1</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -87,7 +87,7 @@
 		<French>%s2 Worker's Commonwealth</French>
 		<German>%s2 Worker's Commonwealth</German>
 		<Italian>%s2 Worker's Commonwealth</Italian>
-		<Spanish>%s2 Worker's Commonwealth</Spanish>
+		<Spanish>Mancomunidad Socialista %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_FASCIST</Tag>
@@ -143,7 +143,7 @@
 		<French>British</French>
 		<German>British</German>
 		<Italian>British</Italian>
-		<Spanish>British</Spanish>
+		<Spanish>Brit&#225;nico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_UNITED_KINGDOM_OF</Tag>
@@ -175,7 +175,7 @@
 		<French>Angevin Empire</French>
 		<German>Angevin Empire</German>
 		<Italian>Angevin Empire</Italian>
-		<Spanish>Angevin Empire</Spanish>
+		<Spanish>Imperio Angevino</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_UNITED_REPUBLIC</Tag>
@@ -183,7 +183,7 @@
 		<French>United Republic of %s1</French>
 		<German>United Republic of %s1</German>
 		<Italian>United Republic of %s1</Italian>
-		<Spanish>United Republic of %s1</Spanish>
+		<Spanish>Rep&#250;blica Unida de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_EXILE</Tag>
@@ -191,7 +191,7 @@
 		<French>%s2 Government in Exile</French>
 		<German>%s2 Government in Exile</German>
 		<Italian>%s2 Government in Exile</Italian>
-		<Spanish>%s2 Government in Exile</Spanish>
+		<Spanish>Gobierno %s2 en Exilio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_VASSAL</Tag>
@@ -247,7 +247,7 @@
 		<French>%s2 Mandate of Mesopotamia</French>
 		<German>%s2 Mandate of Mesopotamia</German>
 		<Italian>%s2 Mandate of Mesopotamia</Italian>
-		<Spanish>%s2 Mandate of Mesopotamia</Spanish>
+		<Spanish>Mandato %s2 de Mesopotamia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_PHOENICIA</Tag>
@@ -255,7 +255,7 @@
 		<French>%s2 Mandate of Lebanon</French>
 		<German>%s2 Mandate of Lebanon</German>
 		<Italian>%s2 Mandate of Lebanon</Italian>
-		<Spanish>%s2 Mandate of Lebanon</Spanish>
+		<Spanish>Mandato %s2 de L&#237;bano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_ETHIOPIA</Tag>
@@ -311,7 +311,7 @@
 		<French>Latin Empire</French>
 		<German>Latin Empire</German>
 		<Italian>Latin Empire</Italian>
-		<Spanish>Latin Empire</Spanish>
+		<Spanish>Imperio Latino</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_VIKINGS</Tag>
@@ -319,7 +319,7 @@
 		<French>Duchy of Scandinavia</French>
 		<German>Duchy of Scandinavia</German>
 		<Italian>Duchy of Scandinavia</Italian>
-		<Spanish>Duchy of Scandinavia</Spanish>
+		<Spanish>Ducado de Escandinavia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_INDONESIA</Tag>
@@ -327,7 +327,7 @@
 		<French>Federated Malay States</French>
 		<German>Federated Malay States</German>
 		<Italian>Federated Malay States</Italian>
-		<Spanish>Federated Malay States</Spanish>
+		<Spanish>Estados Federados Malayos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_FRANCE</Tag>
@@ -335,7 +335,7 @@
 		<French>Duchy of Anjou</French>
 		<German>Duchy of Anjou</German>
 		<Italian>Duchy of Anjou</Italian>
-		<Spanish>Duchy of Anjou</Spanish>
+		<Spanish>Ducado de Anjou</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_HOLY_ROME</Tag>
@@ -343,7 +343,7 @@
 		<French>Duchy of Hanover</French>
 		<German>Duchy of Hanover</German>
 		<Italian>Duchy of Hanover</Italian>
-		<Spanish>Duchy of Hanover</Spanish>
+		<Spanish>Ducado de Hanover</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_GERMANY</Tag>
@@ -351,7 +351,7 @@
 		<French>%s2-Occupied Germany</French>
 		<German>%s2-Occupied Germany</German>
 		<Italian>%s2-Occupied Germany</Italian>
-		<Spanish>%s2-Occupied Germany</Spanish>
+		<Spanish>Alemania %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_NETHERLANDS</Tag>
@@ -359,7 +359,7 @@
 		<French>Duchy of Flanders</French>
 		<German>Duchy of Flanders</German>
 		<Italian>Duchy of Flanders</Italian>
-		<Spanish>Duchy of Flanders</Spanish>
+		<Spanish>Ducado de Flandes</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLISH_MALI</Tag>
@@ -439,7 +439,7 @@
 		<French>Pakistan</French>
 		<German>Pakistan</German>
 		<Italian>Pakistan</Italian>
-		<Spanish>Pakistan</Spanish>
+		<Spanish>Pakist&#229;n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_ADJECTIVE</Tag>

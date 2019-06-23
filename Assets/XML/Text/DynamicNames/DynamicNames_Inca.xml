@@ -103,7 +103,7 @@
 		<French>Revolutionary Union of %s1</French>
 		<German>Revolutionary Union of %s1</German>
 		<Italian>Revolutionary Union of %s1</Italian>
-		<Spanish>Revolutionary Union of %s1</Spanish>
+		<Spanish>Uni&#243;n de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERU_DEFAULT</Tag>
@@ -183,7 +183,7 @@
 		<French>Peru</French>
 		<German>Peru</German>
 		<Italian>Peru</Italian>
-		<Spanish>Peru</Spanish>
+		<Spanish>Per&#250;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERU_ADJECTIVE</Tag>
@@ -191,7 +191,7 @@
 		<French>Peruvian</French>
 		<German>Peruvian</German>
 		<Italian>Peruvian</Italian>
-		<Spanish>Peruvian</Spanish>
+		<Spanish>Peruano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_FOUR_REGIONS</Tag>
@@ -231,7 +231,7 @@
 		<French>Bolivian</French>
 		<German>Bolivian</German>
 		<Italian>Bolivian</Italian>
-		<Spanish>Bolivian</Spanish>
+		<Spanish>Boliviano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_ADJECTIVE</Tag>

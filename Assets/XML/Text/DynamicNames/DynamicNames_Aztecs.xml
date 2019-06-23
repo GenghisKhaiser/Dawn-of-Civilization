@@ -79,7 +79,7 @@
 		<French>New Mexica Empire</French>
 		<German>New Mexica Empire</German>
 		<Italian>New Mexica Empire</Italian>
-		<Spanish>New Mexica Empire</Spanish>
+		<Spanish>Imperio Neomexica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTEC_ALTEPETL</Tag>
@@ -87,7 +87,7 @@
 		<French>Mexican Altepetl</French>
 		<German>Mexican Altepetl</German>
 		<Italian>Mexican Altepetl</Italian>
-		<Spanish>Mexican Altepetl</Spanish>
+		<Spanish>Altepetl Mexicano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTEC_EMPIRE</Tag>
@@ -95,7 +95,7 @@
 		<French>Aztec Empire</French>
 		<German>Aztec Empire</German>
 		<Italian>Aztec Empire</Italian>
-		<Spanish>Aztec Empire</Spanish>
+		<Spanish>Imperio Azteca</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTEC_ADJECTIVE</Tag>

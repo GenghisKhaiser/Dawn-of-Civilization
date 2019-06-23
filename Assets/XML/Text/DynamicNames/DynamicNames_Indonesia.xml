@@ -7,7 +7,7 @@
 		<French>The Indonesians</French>
 		<German>The Indonesians</German>
 		<Italian>The Indonesians</Italian>
-		<Spanish>The Indonesians</Spanish>
+		<Spanish>Los Indonesios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Malay Peoples</French>
 		<German>Malay Peoples</German>
 		<Italian>Malay Peoples</Italian>
-		<Spanish>Malay Peoples</Spanish>
+		<Spanish>Pueblos Malayos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_DEFAULT</Tag>
@@ -47,7 +47,7 @@
 		<French>%s2 New Order</French>
 		<German>%s2 New Order</German>
 		<Italian>%s2 New Order</Italian>
-		<Spanish>%s2 New Order</Spanish>
+		<Spanish>Nuevo Orden %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_MATARAM</Tag>
@@ -79,7 +79,7 @@
 		<French>Kedatuan of %s1</French>
 		<German>Kedatuan of %s1</German>
 		<Italian>Kedatuan of %s1</Italian>
-		<Spanish>Kedatuan of %s1</Spanish>
+		<Spanish>Kedatuan de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_ADJECTIVE</Tag>
@@ -87,7 +87,7 @@
 		<French>Indonesian</French>
 		<German>Indonesisch</German>
 		<Italian>Indonesian</Italian>
-		<Spanish>Indonesian</Spanish>
+		<Spanish>Indonesio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_SHORT_DESC</Tag>

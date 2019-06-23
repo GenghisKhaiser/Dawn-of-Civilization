@@ -20,7 +20,7 @@
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Los Franc&#233;ses</Text>
+			<Text>Los Franceses</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</Spanish>
@@ -135,7 +135,7 @@
 		<French>Frankish</French>
 		<German>Frankish</German>
 		<Italian>Frankish</Italian>
-		<Spanish>Frankish</Spanish>
+		<Spanish>Franco</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_EXILE</Tag>
@@ -143,7 +143,7 @@
 		<French>Free %s1</French>
 		<German>Free %s1</German>
 		<Italian>Free %s1</Italian>
-		<Spanish>Free %s1</Spanish>
+		<Spanish>%s1 Libre</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_LOUISIANA</Tag>
@@ -151,7 +151,7 @@
 		<French>Louisiana</French>
 		<German>Louisiana</German>
 		<Italian>Louisiana</Italian>
-		<Spanish>Louisiana</Spanish>
+		<Spanish>Luisiana</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_QUEBEC</Tag>
@@ -167,7 +167,7 @@
 		<French>French Mandate of Mesopotamia</French>
 		<German>French Mandate of Mesopotamia</German>
 		<Italian>French Mandate of Mesopotamia</Italian>
-		<Spanish>French Mandate of Mesopotamia</Spanish>
+		<Spanish>Mandato Franc&#233;s de Mesopotamia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_DEPARTEMENTS_OF</Tag>
@@ -175,7 +175,7 @@
 		<French>Départements of %s1</French>
 		<German>Départements of %s1</German>
 		<Italian>Départements of %s1</Italian>
-		<Spanish>Départements of %s1</Spanish>
+		<Spanish>Departamento de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_PHOENICIA</Tag>
@@ -183,7 +183,7 @@
 		<French>French Mandate of Lebanon</French>
 		<German>French Mandate of Lebanon</German>
 		<Italian>French Mandate of Lebanon</Italian>
-		<Spanish>French Mandate of Lebanon</Spanish>
+		<Spanish>Mandato Franc&#233;s de L&#236;bano</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_ITALY</Tag>
@@ -191,7 +191,7 @@
 		<French>Cisalpine Republic</French>
 		<German>Cisalpine Republic</German>
 		<Italian>Cisalpine Republic</Italian>
-		<Spanish>Cisalpine Republic</Spanish>
+		<Spanish>Rep&#250;blica Cisalpina</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_ETHIOPIA</Tag>
@@ -223,7 +223,7 @@
 		<French>Latin Empire</French>
 		<German>Latin Empire</German>
 		<Italian>Latin Empire</Italian>
-		<Spanish>Latin Empire</Spanish>
+		<Spanish>Imperio Latino</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_ENGLAND</Tag>
@@ -231,7 +231,7 @@
 		<French>Duchy of Normandy</French>
 		<German>Duchy of Normandy</German>
 		<Italian>Duchy of Normandy</Italian>
-		<Spanish>Duchy of Normandy</Spanish>
+		<Spanish>Ducado de Normand&#237;a</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_SPAIN</Tag>
@@ -239,7 +239,7 @@
 		<French>Spanish March</French>
 		<German>Spanish March</German>
 		<Italian>Spanish March</Italian>
-		<Spanish>Spanish March</Spanish>
+		<Spanish>Marca Hisp&#225;nica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_HOLY_ROME</Tag>
@@ -271,7 +271,7 @@
 		<French>Batavian Republic</French>
 		<German>Batavian Republic</German>
 		<Italian>Batavian Republic</Italian>
-		<Spanish>Batavian Republic</Spanish>
+		<Spanish>Rep&#250;blica B&#225;tava</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_MALI</Tag>
@@ -303,7 +303,7 @@
 		<French>Duchy of Warsaw</French>
 		<German>Duchy of Warsaw</German>
 		<Italian>Duchy of Warsaw</Italian>
-		<Spanish>Duchy of Warsaw</Spanish>
+		<Spanish>Ducado de Varsovia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_INCA</Tag>
@@ -324,9 +324,9 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Francia Andina</Text>
-			<Gender>Female</Gender>
-			<Plural>0</Plural>
+			<Text>Andes Franceses</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
@@ -348,7 +348,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Francia Mesoamericana</Text>
+			<Text>Mesoam&#233;rica Francesa</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -407,7 +407,7 @@
 		<French>West India</French>
 		<German>West India</German>
 		<Italian>West India</Italian>
-		<Spanish>West India</Spanish>
+		<Spanish>India Occidental</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_CONGO</Tag>
@@ -415,7 +415,7 @@
 		<French>%s2 Equatorial Africa</French>
 		<German>%s2 Equatorial Africa</German>
 		<Italian>%s2 Equatorial Africa</Italian>
-		<Spanish>%s2 Equatorial Africa</Spanish>
+		<Spanish>&#193;frica Ecuatorial %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_ADJECTIVE</Tag>

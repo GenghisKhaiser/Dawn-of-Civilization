@@ -7,7 +7,7 @@
 		<French>The Thais</French>
 		<German>The Thais</German>
 		<Italian>The Thais</Italian>
-		<Spanish>The Thais</Spanish>
+		<Spanish>Los Tailandeses</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Thai Peoples</French>
 		<German>Thai Peoples</German>
 		<Italian>Thai Peoples</Italian>
-		<Spanish>Thai Peoples</Spanish>
+		<Spanish>Pueblos Tai</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_DEFAULT</Tag>
@@ -87,7 +87,7 @@
 		<French>Siamese</French>
 		<German>Siamese</German>
 		<Italian>Siamese</Italian>
-		<Spanish>Siamese</Spanish>
+		<Spanish>Siam&#233;s</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAI_VASSAL</Tag>
@@ -95,7 +95,7 @@
 		<French>Mueang of %s1</French>
 		<German>Mueang of %s1</German>
 		<Italian>Mueang of %s1</Italian>
-		<Spanish>Mueang of %s1</Spanish>
+		<Spanish>Mueang de %s1</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_ADJECTIVE</Tag>
@@ -103,7 +103,7 @@
 		<French>Thai</French>
 		<German>Thai</German>
 		<Italian>Thai</Italian>
-		<Spanish>Thai</Spanish>
+		<Spanish>Tai</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_SHORT_DESC</Tag>
@@ -111,6 +111,6 @@
 		<French>Thailand</French>
 		<German>Thailand</German>
 		<Italian>Thailand</Italian>
-		<Spanish>Thailand</Spanish>
+		<Spanish>Tailandia</Spanish>
 	</TEXT>
 </Civ4GameText>

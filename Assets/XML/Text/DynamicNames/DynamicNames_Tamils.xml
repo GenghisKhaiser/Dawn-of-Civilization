@@ -7,7 +7,7 @@
 		<French>The Tamils</French>
 		<German>The Tamils</German>
 		<Italian>The Tamils</Italian>
-		<Spanish>The Tamils</Spanish>
+		<Spanish>Los Tamiles</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_PEOPLES</Tag>
@@ -15,7 +15,7 @@
 		<French>Dravidian Peoples</French>
 		<German>Dravidian Peoples</German>
 		<Italian>Dravidian Peoples</Italian>
-		<Spanish>Dravidian Peoples</Spanish>
+		<Spanish>Pueblos Dr&#225;vidas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_DEFAULT</Tag>
@@ -23,7 +23,7 @@
 		<French>%s2 Kingdom</French>
 		<German>%s2 Kingdom</German>
 		<Italian>%s2 Kingdom</Italian>
-		<Spanish>%s2 Kingdom</Spanish>
+		<Spanish>Reino %s2</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_REPUBLIC</Tag>
@@ -31,7 +31,7 @@
 		<French>Republic of Tamil Nadu</French>
 		<German>Republic of Tamil Nadu</German>
 		<Italian>Republic of Tamil Nadu</Italian>
-		<Spanish>Republic of Tamil Nadu</Spanish>
+		<Spanish>Rep&#250;blica de Tamil Nadu</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_FASCIST</Tag>
@@ -39,7 +39,7 @@
 		<French>Dravidian Empire</French>
 		<German>Dravidian Empire</German>
 		<Italian>Dravidian Empire</Italian>
-		<Spanish>Dravidian Empire</Spanish>
+		<Spanish>Imperio Dr&#225;vida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA</Tag>
@@ -71,7 +71,7 @@
 		<French>Pandyan</French>
 		<German>Pandyan</German>
 		<Italian>Pandyan</Italian>
-		<Spanish>Pandyan</Spanish>
+		<Spanish>Pandya</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_CHERA</Tag>
@@ -87,7 +87,7 @@
 		<French>Dravida</French>
 		<German>Dravida</German>
 		<Italian>Dravida</Italian>
-		<Spanish>Dravida</Spanish>
+		<Spanish>Dr&#225;vida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_BAHMANI</Tag>
@@ -95,7 +95,7 @@
 		<French>Bahmani</French>
 		<German>Bahmani</German>
 		<Italian>Bahmani</Italian>
-		<Spanish>Bahmani</Spanish>
+		<Spanish>Bahman&#237;</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_TAMIL_NADU</Tag>
@@ -119,6 +119,6 @@
 		<French>Tamils</French>
 		<German>Tamils</German>
 		<Italian>Tamils</Italian>
-		<Spanish>Tamils</Spanish>
+		<Spanish>Tamiles</Spanish>
 	</TEXT>
 </Civ4GameText>
